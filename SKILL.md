@@ -227,19 +227,19 @@ A large part of the document covers pre-shoot operations. If the user works with
 16. **Reputation check.** Do not do anything that could hurt the channel from a PR perspective.
 17. **Handling refusals.** Per premise 5, go no further than politely asking for alternatives.
 
-**결정 요청 양식** (문서의 자동차 예시를 일반화)
+**Decision request template** (generalized from the document's car example)
 
 ```
-[영상과 위치] ○○ 영상, 6~9분 구간의 ○○ 장면
-[예산] 배정 ○원, 상향 가능 폭 ○원 (○○에게 확인함)
-[조사 범위] ○○ 지역, 업체 ○곳 조사
-[선택지] 기획 측 사전 승인 받은 안 5개 + 다른 방향의 백업안 5개, 각각 사진과 핵심 정보 첨부
-[질문] 이 중 어느 것이 좋은가, 아니면 선택지를 더 찾을까
+[Video and position] The [X] video, the [X] scene in minutes 6 to 9
+[Budget] [X] allocated, can go up by [X] (confirmed with [X])
+[Search scope] Checked [X] vendors in [X] area
+[Options] 5 options pre-approved by creative + 5 backup options in a different direction, each with photos and key details
+[Question] Which of these is best, or should I find more options?
 ```
 
-나쁜 예: "다음 영상에 ○○ 쓰려는데 이거 어때요? 가격은 ○원이에요." (맥락, 비교 대상, 확인 여부가 없음)
+Bad example: "We're thinking of using [X] in the next video, what do you think? It costs [X]." (No context, no alternatives, nothing confirmed.)
 
-**모드 F 출력:** 촬영일 역산 일정표(D-45, D-30, D-14, D-7, D-1)와 각 시점의 병목, 핵심 요소 관리표, 매일 체크인 항목.
+**Mode F output:** a countdown schedule from the shoot date (D-45, D-30, D-14, D-7, D-1) with the bottleneck at each point, a critical components tracker, and daily check-in items.
 
 ## 크리에이티브 공통 원칙
 
