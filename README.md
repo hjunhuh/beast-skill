@@ -108,3 +108,10 @@ Not making a 13-minute video? beast-skill scales it for you:
 - **Formats.** Last to Leave, Stair Stepping, Chase, and why you never run the same one back to back.
 - **Brand deals are content.** No more retention craters at the sponsor read.
 - **The ops layer.** Name your bottlenecks, video everything, say the negatives, keep a backup day.
+
+## 🛡️ What we left out on purpose
+
+- **Hyper-fast retention editing as a default.** MrBeast himself said in March 2024 that he slowed his videos down and added breathers. beast-skill keeps the structure and sets pacing by story.
+- **"No doesn't mean no."** Clear refusals, filming permits and likeness rights are respected. The skill only suggests politely asking for alternatives.
+- **All-nighters and employee tiers.** Not production advice.
+- **Unverified rules stated as fact.** Permits, drones and similar rules are listed as things to verify.
