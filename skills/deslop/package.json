@@ -1,0 +1,19 @@
+{
+  "name": "deslop-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zero-dependency checker for chatbot tells. Dev dependencies are only for type checking.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "check": "node scripts/slop-check.ts",
+    "test": "node --test scripts/*.test.ts",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.6",
+    "typescript": "7.0.2"
+  }
+}
