@@ -137,19 +137,19 @@ The document only gives the 13-minute average. Scale other lengths proportionall
 ## Ending: the payoff shot and the final cut
 ```
 
-## 모드 C. 편집 노트
+## Mode C. Edit notes
 
-편집 지시서를 쓰거나 편집본(타임라인, 컷 목록, 대본, 설명)을 받아 피드백할 때 씁니다. 모든 노트는 "타임코드 + 구간 이름 + 무엇을 + 왜(어느 지표)" 형식으로 쓰세요. 이유가 없는 노트는 편집자가 다음 영상에 일반화하지 못합니다.
+Use this mode to write an editor brief or to give feedback on a cut (a timeline, shot list, script or description). Write every note as "timecode + section name + what to do + why (which metric)". Notes without reasons cannot be generalized by the editor to the next video.
 
-점검 순서:
+Review order:
 
-1. **약속 확인 속도.** 첫 장면이 썸네일과 제목의 약속을 얼마나 빨리 보여주는가. 약속 확인을 늦추는 요소(긴 인트로, 로고, 채널 소개, 맥락 설명)를 찾아 뒤로 보내거나 줄이세요.
-2. **첫 장면의 밝기.** 문서는 영상 시작부 조명이 좋을수록 초반 이탈이 적다는 상관관계를 찾았다고 합니다. 첫 장면이 어두우면 보정을 지시하세요.
-3. **썸네일 요소 노출.** 썸네일에 나온 색, 소품, 인물이 초반에 그대로 등장하는가.
-4. **보여주기로 전환.** 1분 이후에도 "이제 ~할 겁니다" 같은 예고가 이어지면 실제 장면으로 대체.
-5. **진행 속도.** 1~3분 구간에서 시간 경과가 충분히 압축되었는가(여러 날, 여러 단계).
-6. **재몰입 위치.** 장치가 구간 맵의 목표 시간대에 실제로 놓였는가. 밀렸으면 앞당기기.
-7. **지루한 순간 없음.** 각 컷이 이야기를 앞으로 미는가. 밀지 않는 컷은 삭제 후보로 표시. 단, 전제 4에 따라 장면 사이 짧은 숨 고르기, 반응 컷, 감정 장면은 지루함과 구분해서 살리세요.
+1. **Speed of confirming the promise.** How fast does the opening show the title and thumbnail promise? Find anything that delays it (long intros, logos, channel introductions, background context) and move it back or cut it down.
+2. **Brightness of the opening.** The document says they found a correlation between better lighting at the start of a video and less early drop-off. If the opening is dark, call for a correction.
+3. **Thumbnail elements on screen.** Do the colors, props and people from the thumbnail appear early, exactly as shown?
+4. **Switch to showing.** If teasers like "next, we're going to..." continue past the first minute, replace them with the actual scenes.
+5. **Progression speed.** Is enough time compressed into minutes 1 to 3 (several days, several stages)?
+6. **Re-engagement placement.** Do the devices actually sit at the target times on the section map? If they slipped, pull them earlier.
+7. **No dull moments.** Does each cut push the story forward? Mark cuts that do not as removal candidates. However, following premise 4, keep short breathers between scenes, reaction shots and emotional moments, and do not confuse them with dullness.
 8. **3~6분 장면 전환.** 이 구간은 빠른 장면 전환과 단순하고 자극적인 내용이 맞습니다.
 9. **후반부 품질.** 긴 설명이 후반부에 모였는지, 그래도 수준 이하인 구간은 없는지.
 10. **끝 신호 제거.** "마지막으로", "정리하자면", 이른 아웃트로 음악처럼 끝을 알리는 요소는 결말 보상을 키우는 용도가 아니면 삭제.
