@@ -85,3 +85,14 @@ Not making a 13-minute video? beast-skill scales it for you:
 | 20 min | ~4:36 | ~9:12 |
 
 *Formula: length x 0.23 and length x 0.46. Scaled values are always labeled as the skill's adaptation, not the playbook's text.*
+
+## 🧰 Six modes
+
+| Bring this | Mode | Get this |
+|---|---|---|
+| 💡 An idea | **A. Packaging-first planning** | Title candidates by intensity, thumbnail composition, more extreme versions of the idea, a wow factor, a critical components table |
+| 📝 A plan or script | **B. Minute-by-minute map** | A timecoded section map, a first-minute script, two re-engagement devices |
+| ✂️ A cut or an edit request | **C. Edit notes** | Notes with timecode, section, instruction and the metric it protects |
+| 📉 A retention graph | **D. Retention diagnosis** | Every drop matched to what was on screen, plus fixes for the next video |
+| 🤝 A sponsor | **E. Sponsor integration** | 2 to 3 ways to make the brand deal part of the story |
+| 📅 A shoot | **F. Production operations** | A countdown schedule from D-45, bottleneck owners, daily check-ins |
