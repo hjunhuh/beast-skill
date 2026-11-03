@@ -57,11 +57,11 @@ MrBeast's production starts with the title and thumbnail. The title and thumbnai
 10. **Safety and permits are critical components too.** For physical concepts such as survival, extreme environments or long endurance challenges, add stop criteria decided before the shoot (in what situations do we stop immediately) and safety measures to the critical components table. An endurance rule is a device for tension, not a rule worth risking your body for, and a stopped attempt is still content. Present rules about filming permits, camping, drones, foraging, currency imagery and similar as items to verify, and do not state unverified dates or clauses as fact. If web search is available, verify them and cite the source.
 11. **Pick a format.** Recommend a fitting format from the table below, and advise against uploading the same format back to back; put other videos in between. The document's view is that viewers seem to want the same format forever, but actually want new things, and channels that rehash formats for years eventually die.
 
-| 포맷 | 구조 | 리텐션이 유지되는 이유 |
+| Format | Structure | Why retention holds |
 |---|---|---|
-| 끝까지 남기 (Last to Leave) | 여러 명이 버티고 마지막 1인이 상금 | 승자가 끝에서야 공개됨 |
-| 단계적 상승 (Stair Stepping) | 1달러, 10달러, 50달러, 375달러, 1,000달러, 1만 달러짜리 폭죽처럼 점점 크게, 마지막에 세계 기록 | 뒤로 갈수록 판돈이 커짐 |
-| 추격 | 크리에이터가 쫓기고 잡히느냐 마느냐 | 결과가 끝까지 미정 |
+| Last to Leave | Several people endure and the last one standing wins | The winner is revealed only at the end |
+| Stair Stepping | Escalating stakes, such as fireworks worth $1, $10, $50, $375, $1,000 and $10,000, ending with a world record | Stakes rise the deeper you go |
+| Chase | The creator is hunted and either caught or not | The outcome stays open until the end |
 
 **모드 A 출력 양식**
 
