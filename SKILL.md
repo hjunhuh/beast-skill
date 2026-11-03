@@ -265,7 +265,7 @@ Use these as background principles in every mode.
 - Do not quote the document at length. Explain principles in your own words and use only short phrases where they are essential.
 - End each deliverable with 1 to 3 rules the user can reuse on the next video as is. The long-term goal of this skill is for the user to internalize the principles.
 
-## 출처
+## Sources
 
-- 원문: How to Succeed in MrBeast Production (36페이지, Jimmy Donaldson 작성). 2024년 8~9월 공개되었고, Passionfruit 보도에 따르면 전직 MrBeast 프로듀서 두 명이 진위를 확인했습니다.
-- 편집 속도 변화: 2024년 3월 Donaldson의 공개 발언 (Washington Post 보도).
+- Original: How to Succeed in MrBeast Production (36 pages, written by Jimmy Donaldson). It became public in August and September 2024, and according to Passionfruit, two former MrBeast producers confirmed its authenticity.
+- Change in editing pace: Donaldson's public statement in March 2024 (reported by The Washington Post).
