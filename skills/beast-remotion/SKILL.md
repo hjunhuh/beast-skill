@@ -154,3 +154,13 @@ const fromMs = (caps: MsCaption[]): CaptionWord[] =>
 ```
 
 Coloring is automatic: money (`$10`, `10,000원`) green, numbers yellow, `keywords` yellow, danger words (eliminated, lose, collapsed and similar) red, everything else white. Commas and periods are dropped on screen. Add the video's critical nouns to `keywords`.
+
+## When something looks wrong
+
+| Symptom | Fix |
+|---|---|
+| Text overlaps the caption line | Big statements should be `big-text`, which makes captions step aside. Move or shorten other overlays |
+| A punch or shake is too much | Lower `scale` or `intensity` on that effect, or switch the plan to `modern` |
+| Checker warns about pacing | Split long shots or cover them with B-roll clips. Never add cuts that break a real moment; a justified WARN is fine |
+| Captions feel late | Speech-to-text word timestamps often lag by 50 to 100 ms. Shift them earlier instead of changing the spring |
+| Fonts fall back to Arial Black | Run `npm run assets` |
