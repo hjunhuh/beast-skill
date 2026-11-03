@@ -16,3 +16,13 @@ MrBeast 또는 Beast Industries와 관련 없는 비공식 프로젝트이며, �
 | 리텐션 그래프, AVD, AVP | D. 리텐션 진단 | 손실 구간별 원인 추정과 다음 영상 처방 |
 | 협찬 영상 | E. 협찬 통합 | 협찬 삽입안 2~3개 |
 | 촬영 일정, 외주 | F. 제작 운영 | 촬영일 역산 일정표, 핵심 요소 관리표 |
+
+## 설치
+
+Claude Code에서는 개인 스킬 폴더에 클론하면 됩니다.
+
+```bash
+git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
+```
+
+다른 환경에서는 `SKILL.md`가 들어 있는 이 폴더를 스킬로 등록해 사용하세요.
