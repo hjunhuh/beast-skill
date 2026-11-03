@@ -36,13 +36,19 @@ This repo turns that playbook into three Claude skills that plan the video, rend
 
 ## Install
 
-**Claude Code** (personal skills folder):
+**All three skills as a Claude Code plugin:**
 
-```bash
-git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
+```text
+/plugin marketplace add hjunhuh/beast-skill
+/plugin install beast-skill@beast-skill
 ```
 
-**Other Claude surfaces:** add this folder (it only needs `SKILL.md`) as a custom skill.
+**One skill at a time** (personal skills folder):
+
+```bash
+git clone https://github.com/hjunhuh/beast-skill
+cp -r beast-skill/skills/beast-remotion ~/.claude/skills/   # or beast-skill, deslop
+```
 
 ## See it work
 
