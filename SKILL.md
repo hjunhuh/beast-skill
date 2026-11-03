@@ -7,13 +7,13 @@ description: Applies the principles of MrBeast's production onboarding document 
 
 This skill turns the principles of the 36-page document that MrBeast (Jimmy Donaldson) wrote for new hires at his production company into working procedures you can apply directly to the user's YouTube videos. Do not quote the document at length. Restate each principle in your own words and apply it to the user's situation.
 
-## 먼저 알아둘 전제
+## Premises
 
-1. **규칙집이 아니다.** 문서 작성자 본인이 이 문서는 그대로 따를 규칙이 아니며 상황에 따라 걸러서 적용하라고 못 박았습니다. 그래서 이 스킬도 체크리스트를 기계적으로 대입하지 말고, 각 원칙이 어느 지표를 지키려고 존재하는지 이해한 뒤 사용자 영상에 맞게 판단해야 합니다.
-2. **목표는 "가장 좋은 유튜브 영상"이다.** 가장 잘 찍은 영상, 가장 웃긴 영상, 가장 화질 좋은 영상이 목표가 아닙니다. 판단 기준은 유튜브 시청자가 클릭하고 끝까지 보느냐입니다. 사용자가 영화적 완성도와 유튜브 성과 사이에서 고민하면 이 기준으로 정리해 주세요.
-3. **수치는 MrBeast 채널 기준이다.** 평균 길이 13분 37초, 3분과 6분 재몰입 같은 숫자는 그 채널의 사례입니다. 다른 길이와 규모에는 아래 "길이 환산" 규칙으로 바꿔 쓰고, 환산한 값은 문서 원문이 아니라 이 스킬의 적용임을 표시하세요.
-4. **2024년 이후의 변화를 반영한다.** 2024년 3월 Donaldson은 지난 1년간 영상 속도를 늦추고 스토리에 집중하며 장면 사이에 숨 돌릴 틈을 넣었다고 공개적으로 밝혔습니다. 따라서 1초마다 컷, 쉬지 않는 효과음, 고함 위주의 과잉 리텐션 편집을 기본값으로 제안하지 마세요. 문서의 구조(첫 1분, 재몰입, 후반부, 갑작스러운 결말)는 유지하되 컷 속도는 이야기 밀도로 정합니다.
-5. **채택하지 않는 부분이 있다.** 문서에는 외부의 거절을 쉽게 받아들이지 말라는 대목, 촬영 전 밤샘을 권하는 대목 등이 있습니다. 이 스킬은 거절에 대해 다른 담당자나 다른 지점에 정중하게 대안을 문의하는 것까지만 제안하고, 명확한 거절, 촬영 허가, 초상권, 출연자 안전과 휴식은 항상 존중하도록 안내합니다. 직원을 등급으로 나누는 인사 원칙도 영상 제작 조언에는 쓰지 않습니다.
+1. **It is not a rulebook.** The author states plainly that the document is not a set of rules to follow literally and that everything should be applied with judgment for the situation. So do not mechanically run through checklists. Understand which metric each principle protects, then decide how it applies to the user's video.
+2. **The goal is the best YouTube video.** Not the best-produced video, the funniest video or the highest-quality video. The test is whether YouTube viewers click and watch to the end. When the user is torn between cinematic craft and YouTube performance, frame the choice with this goal.
+3. **The numbers are MrBeast's channel numbers.** An average length of 13 minutes 37 seconds and re-engagements at minutes 3 and 6 are that channel's data points. For other lengths and scales, convert them with the scaling rules below, and mark converted values as this skill's adaptation, not the document's text.
+4. **Reflect what changed after 2024.** In March 2024 Donaldson said publicly that over the previous year he had slowed his videos down, focused on story and added breathers between scenes. So do not propose hyper-fast retention editing (a cut every second, nonstop sound effects, constant shouting) as the default. Keep the document's structure (first minute, re-engagements, back half, abrupt ending) but set cutting pace by story density.
+5. **Some parts are deliberately not adopted.** The document includes passages about refusing to accept outside refusals and about pulling all-nighters before shoots. This skill only goes as far as politely asking another contact or another location for an alternative, and always respects clear refusals, filming permits, likeness rights, and the safety and rest of everyone on set. It also does not use the document's practice of grading employees into tiers in any production advice.
 
 ## 세 가지 지표와 하나의 비추적 요소
 
