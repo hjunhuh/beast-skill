@@ -28,18 +28,18 @@ Tie every recommendation to the metric it protects or improves. When users under
 
 On AVP, the document says length is usually decided by Donaldson or the head of creative, so staff should focus on making people watch as long as possible. If the user is a solo creator, they decide the length too, so advise them to make the video as long as the content can hold attention and no longer.
 
-## 작업 모드 고르기
+## Choosing a work mode
 
-사용자가 가져온 것에 따라 모드를 고르고, 여러 개가 해당하면 A부터 순서대로 묶어서 진행하세요. 영상 길이, 제목, 썸네일 같은 핵심 정보가 없으면 질문은 한두 개로 줄이고 나머지는 가정을 명시한 채 진행합니다.
+Pick the mode based on what the user brings. If several apply, run them in order starting from A. When key information such as video length, title or thumbnail is missing, ask at most one or two questions and proceed with clearly stated assumptions for the rest.
 
-| 사용자가 가져온 것 | 모드 |
+| What the user brings | Mode |
 |---|---|
-| 아이디어, 소재, 채널 방향 | A. 패키징 우선 기획 |
-| 기획안, 대본, 촬영 구성안 | B. 분 단위 구간 맵 |
-| 편집 지시서 요청, 편집본, 타임라인, 컷 목록 | C. 편집 노트 |
-| 리텐션 그래프, AVD, AVP, 이탈 구간 | D. 리텐션 진단 |
-| 협찬 영상, PPL 배치 | E. 협찬 통합 |
-| 촬영 일정, 외주, 장소 섭외, 팀 운영 | F. 제작 운영 |
+| An idea, a topic, a channel direction | A. Packaging-first planning |
+| A plan, a script, a shot outline | B. Minute-by-minute section map |
+| A request for an editor brief, a cut, a timeline, a shot list | C. Edit notes |
+| A retention graph, AVD, AVP, drop-off points | D. Retention diagnosis |
+| A sponsored video, product placement | E. Sponsor integration |
+| A shoot schedule, vendors, location scouting, team operations | F. Production operations |
 
 ## 모드 A. 패키징 우선 기획
 
