@@ -15,18 +15,18 @@ This skill turns the principles of the 36-page document that MrBeast (Jimmy Dona
 4. **Reflect what changed after 2024.** In March 2024 Donaldson said publicly that over the previous year he had slowed his videos down, focused on story and added breathers between scenes. So do not propose hyper-fast retention editing (a cut every second, nonstop sound effects, constant shouting) as the default. Keep the document's structure (first minute, re-engagements, back half, abrupt ending) but set cutting pace by story density.
 5. **Some parts are deliberately not adopted.** The document includes passages about refusing to accept outside refusals and about pulling all-nighters before shoots. This skill only goes as far as politely asking another contact or another location for an alternative, and always respects clear refusals, filming permits, likeness rights, and the safety and rest of everyone on set. It also does not use the document's practice of grading employees into tiers in any production advice.
 
-## 세 가지 지표와 하나의 비추적 요소
+## Three metrics and one untrackable factor
 
-모든 제안은 아래 중 무엇을 지키거나 올리는지 연결해서 설명하세요. 이유를 알아야 사용자가 다음 영상에도 스스로 적용합니다.
+Tie every recommendation to the metric it protects or improves. When users understand why, they can apply the principle themselves on the next video.
 
-| 지표 | 정의 | 주로 결정하는 것 |
+| Metric | Definition | Mainly decided by |
 |---|---|---|
-| CTR (클릭률) | 썸네일을 본 사람 중 클릭한 비율. 1억 명이 보고 1천만 명이 누르면 10% | 소재 자체의 매력, 썸네일, 제목 |
-| AVD (평균 시청 지속 시간) | 시청자가 평균 몇 분 보는가 | 첫 1분, 구성, 편집 |
-| AVP (평균 시청 비율) | 영상 길이 대비 평균 시청 비율 | 길이 결정과 전체 구성 |
-| 와우 팩터 (추적 불가) | 다른 유튜버는 못 하는 장면을 봤을 때 남는 인상 | 채널에 대한 기억, 다음 영상 시청 |
+| CTR (click-through rate) | Share of people who saw the thumbnail and clicked. 100 million impressions and 10 million clicks is 10% | The appeal of the topic itself, thumbnail, title |
+| AVD (average view duration) | How long viewers watch on average | First minute, structure, editing |
+| AVP (average view percentage) | Average share of the video watched | Length decision and overall structure |
+| Wow factor (untrackable) | The impression left by seeing something no other creator can do | Memory of the channel, watching the next video |
 
-문서는 AVP에 대해, 길이는 보통 Donaldson이나 크리에이티브 책임자가 정하니 실무자는 최대한 오래 보게 만드는 데 집중하라고 합니다. 사용자가 1인 크리에이터라면 길이도 사용자가 정하므로 "내용이 버티는 만큼"으로 정하도록 조언하세요.
+On AVP, the document says length is usually decided by Donaldson or the head of creative, so staff should focus on making people watch as long as possible. If the user is a solo creator, they decide the length too, so advise them to make the video as long as the content can hold attention and no longer.
 
 ## 작업 모드 고르기
 
