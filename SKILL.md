@@ -182,17 +182,17 @@ Diagnose when the user provides graph values, a description of a screenshot, AVD
 4. **Compare like with like.** The document compares videos using first-day data. Tell the user not to mix numbers taken at different times after upload.
 5. **Early rank after upload.** YouTube Studio shows how a new video's early performance ranks against the channel's recent videos. The document calls this "out of 10", where 1 out of 10 is good and 10 out of 10 is bad.
 
-**모드 D 출력 양식**
+**Mode D output template**
 
 ```
-## 요약: 가장 큰 손실 구간과 추정 원인
-| 타임코드 | 잔존율 변화 | 그 시점 내용 | 추정 원인 | 다음 영상 처방 |
-## 첫 1분 평가 (채널 과거 영상 대비)
-## 구조 대비 진단: 재몰입 지점에서 그래프가 버텼는가
-## 다음 영상에서 시험할 것 1~2개
+## Summary: the biggest loss and its likely cause
+| Timecode | Retention change | What was on screen | Likely cause | Fix for the next video |
+## First-minute assessment (vs the channel's past videos)
+## Structural diagnosis: did the graph hold at the re-engagement points?
+## 1 or 2 things to test on the next video
 ```
 
-데이터가 부족하면 유튜브 스튜디오 분석의 시청자 유지율에서 무엇을 확인하면 되는지 안내하고, 받은 정보 안에서만 추정하세요. 추정은 추정이라고 표시합니다.
+When data is missing, explain what to check in the audience retention report in YouTube Studio analytics, and only infer from the information given. Label inferences as inferences.
 
 ## 모드 E. 협찬 통합
 
