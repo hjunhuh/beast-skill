@@ -135,3 +135,22 @@ These are the combinations that read as "MrBeast editing". Times are relative to
 | Failure or collapse | `shake` (0.9 s, intensity 30), `buzzer`, red `big-text`, then a 0.8 s `freeze` |
 | Elimination | `buzzer` and `eliminated` for 1.8 s with a short `shake` |
 | Payoff and ending | `punch` and `ding` on the reaction, then cut. No outro and no subscribe ask after the payoff |
+
+## Captions from a transcript
+
+The renderer wants `{ text, start, end }` per word in seconds. From Whisper-style word timestamps:
+
+```ts
+import type { CaptionWord } from "./src/beast/types";
+
+type WhisperWord = { word: string; start: number; end: number };
+const toCaptions = (words: WhisperWord[]): CaptionWord[] =>
+  words.map((w) => ({ text: w.word.trim(), start: w.start, end: w.end }));
+
+// From @remotion/captions style captions (milliseconds):
+type MsCaption = { text: string; startMs: number; endMs: number };
+const fromMs = (caps: MsCaption[]): CaptionWord[] =>
+  caps.map((c) => ({ text: c.text.trim(), start: c.startMs / 1000, end: c.endMs / 1000 }));
+```
+
+Coloring is automatic: money (`$10`, `10,000원`) green, numbers yellow, `keywords` yellow, danger words (eliminated, lose, collapsed and similar) red, everything else white. Commas and periods are dropped on screen. Add the video's critical nouns to `keywords`.
