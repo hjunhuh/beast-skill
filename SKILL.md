@@ -254,16 +254,16 @@ Use these as background principles in every mode.
 - **Show it to many people.** Show ideas to as many people as possible and ask how to make them better.
 - **Famous people.** If a guest is gettable, their name value is part of the wow too.
 
-## 출력 공통 규칙
+## Output rules
 
-- 사용자의 언어로 답하세요.
-- 사용자가 여러 결과물(제목, 구성, 지시서 등)을 한꺼번에 요청하면 모드 순서대로 이어 붙이고, 편집 지시서처럼 남에게 넘길 부분은 그대로 복사해 전달할 수 있게 한 덩어리로 묶으세요.
-- 정보가 없어 가정한 것(출연 인원, 촬영 시기, 협찬 여부 등)은 맨 앞에 짧게 밝히세요.
-- 시간과 관련된 모든 제안에 타임코드나 구간 이름을 붙이세요.
-- 문서에서 온 내용과 이 스킬이 환산하거나 확장한 내용을 구분해서 표시하세요(예: "문서", "환산", "적용").
-- MrBeast 채널의 수치를 사용자 채널의 목표치처럼 제시하지 마세요. 규모와 예산이 다르면 원칙만 가져옵니다.
-- 문서 원문을 길게 인용하지 마세요. 원칙은 풀어서 설명하고, 꼭 필요한 짧은 표현만 씁니다.
-- 결과물 끝에 다음 영상에도 그대로 쓸 수 있는 규칙을 1~3개 남기세요. 사용자가 원칙을 체화하게 하는 것이 이 스킬의 장기 목표입니다.
+- Reply in the user's language.
+- When the user asks for several deliverables at once (titles, structure, brief and so on), chain them in mode order, and keep anything meant to be handed to someone else, such as an editor brief, in one block that can be copied as is.
+- State any assumptions you made for missing information (number of people on camera, shoot timing, sponsorship and so on) briefly at the top.
+- Attach a timecode or section name to every time-related recommendation.
+- Distinguish content from the document from what this skill scaled or extended (for example "document", "scaled", "adapted").
+- Do not present MrBeast's channel numbers as targets for the user's channel. When scale and budget differ, take only the principle.
+- Do not quote the document at length. Explain principles in your own words and use only short phrases where they are essential.
+- End each deliverable with 1 to 3 rules the user can reuse on the next video as is. The long-term goal of this skill is for the user to internalize the principles.
 
 ## 출처
 
