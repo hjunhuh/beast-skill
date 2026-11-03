@@ -81,16 +81,60 @@ Not making a 13-minute video? It scales: re-engagements land at length x 0.23 an
 
 Six modes, picked from what you bring: packaging-first planning, a minute-by-minute map, edit notes, retention diagnosis, sponsor integration and production operations. Every note comes with a timecode and the metric it protects (CTR, AVD or AVP), and the skill marks which parts come from the playbook and which parts it scaled.
 
-## Six modes
+## beast-remotion: render the edit
 
-| Bring this | Mode | Get this |
-|---|---|---|
-| 💡 An idea | **A. Packaging-first planning** | Title candidates by intensity, thumbnail composition, more extreme versions of the idea, a wow factor, a critical components table |
-| 📝 A plan or script | **B. Minute-by-minute map** | A timecoded section map, a first-minute script, two re-engagement devices |
-| ✂️ A cut or an edit request | **C. Edit notes** | Notes with timecode, section, instruction and the metric it protects |
-| 📉 A retention graph | **D. Retention diagnosis** | Every drop matched to what was on screen, plus fixes for the next video |
-| 🤝 A sponsor | **E. Sponsor integration** | 2 to 3 ways to make the brand deal part of the story |
-| 📅 A shoot | **F. Production operations** | A countdown schedule from D-45, bottleneck owners, daily check-ins |
+`skills/beast-remotion/template` is a complete Remotion project. One typed **edit plan** drives the whole video:
+
+```ts
+const plan: EditPlan = {
+  title: "48 Hours On A Deserted Island With $10",
+  preset: "classic",                       // or "modern" (2024+ pacing)
+  fps: 30, width: 1920, height: 1080,
+  thumbnailPromise: ["island", "plastic bag", "$10", "trash house"],
+  clips: [{ source: { kind: "video", src: "footage/boat.mp4" }, duration: 3, promise: ["island"] }, /* ... */],
+  captions,                                // word-level timestamps
+  overlays: [{ type: "counter", from: 0, to: 10, prefix: "$", label: "Total budget", at: 3.3, duration: 2.1 }],
+  effects: [{ type: "punch", at: 0.1, duration: 0.6 }],
+  sfx: [{ at: 0.15, name: "boom" }],
+  markers: [{ at: 22.6, kind: "reengage-1" }, { at: 86, kind: "payoff" }],
+};
+```
+
+```bash
+cp -r skills/beast-remotion/template my-video && cd my-video && npm install
+npm run check:demo                         # test a plan against the playbook
+npm run dev                                # Remotion Studio, with a retention guide bar
+npm run render:demo                        # out/demo.mp4
+```
+
+<p align="center">
+  <img src="assets/components.png" alt="Big text, money counter, name tag, price tags, timer HUD, day stamp and callouts rendered by the template" width="720">
+</p>
+
+**What's in the box**
+
+| Piece | Details |
+|---|---|
+| Word-pop captions | 2-word chunks (classic) or keywords only (modern). Money turns green, numbers and keywords yellow, danger words red. Captions step aside for big statements |
+| Camera | Punch zooms, decaying shake, slow push, tighter "second angle" crops, freeze frames |
+| Graphics | Big text that slams in, money counters, a challenge timer that goes red in the last 10%, day stamps, stair-stepping price tags, circle and arrow callouts, elimination stamps, name tags, white flashes |
+| Sound | Eight SFX (whoosh, pop, ding, boom, cash, riser, tick, buzzer) synthesized from math by `npm run assets`, so there is nothing to license. Music ducks under speech automatically |
+| Retention checker | Fails a plan whose thumbnail elements don't appear before the hook ends or that has no re-engagements or payoff. Warns on late re-engagements, long shots, pacing, end signals, dead air and subscribe asks after the payoff |
+| Placeholders | Plan the whole video before you shoot. Placeholders render as a moving storyboard |
+
+The checker on the demo plan:
+
+```text
+PASS  [promise] Thumbnail element "$10" appears before 0:14.0.
+PASS  [reengage] re-engagement 1 at 0:22.6 (target 0:22.0).
+PASS  [reengage] re-engagement 2 at 0:44.8 (target 0:44.0).
+PASS  [pacing] 25 cuts/min before re-engagement 1 (classic range 24 to 45).
+PASS  [ending] Ends 2.1 s after the payoff.
+```
+
+**Two presets.** Tubefilter counted 38 cuts in one minute of a 2023 MrBeast video and 23 in a 2024 one, after he said he had slowed down and focused on story. `classic` reproduces the older retention style; `modern` follows the newer pacing and is the default for new uploads.
+
+Remotion is free for individuals, non-profits and companies with up to 3 employees; larger companies need a [Remotion company license](https://remotion.dev/license).
 
 ## What's baked in
 
