@@ -164,3 +164,11 @@ Coloring is automatic: money (`$10`, `10,000원`) green, numbers yellow, `keywor
 | Checker warns about pacing | Split long shots or cover them with B-roll clips. Never add cuts that break a real moment; a justified WARN is fine |
 | Captions feel late | Speech-to-text word timestamps often lag by 50 to 100 ms. Shift them earlier instead of changing the spring |
 | Fonts fall back to Arial Black | Run `npm run assets` |
+
+## Guardrails
+
+- Style only: no MrBeast name, logo, face, voice, footage or official-looking branding.
+- Counters, timers and captions must show what actually happened. Never invent money amounts, results or reactions to make a beat hit harder.
+- SFX are synthesized and license-free. Music and any third-party footage are the user's responsibility to license.
+- Remotion is free for individuals, non-profits and for-profit organizations with up to 3 employees; larger companies need a Remotion company license (see `template/node_modules/remotion/LICENSE.md` or remotion.dev/license). Mention this when the user is a company.
+- When you change the template's code, keep `npm run typecheck`, `npm test` and `npm run check:demo` passing.
