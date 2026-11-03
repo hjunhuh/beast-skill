@@ -1,0 +1,14 @@
+{
+  "name": "beast-skill",
+  "owner": { "name": "hjunhuh" },
+  "metadata": {
+    "description": "Claude skills for planning, editing and writing YouTube videos the way the biggest channel does."
+  },
+  "plugins": [
+    {
+      "name": "beast-skill",
+      "source": ".",
+      "description": "beast-skill (plan and diagnose), beast-remotion (render MrBeast-style edits in Remotion) and deslop (remove the AI voice)."
+    }
+  ]
+}
