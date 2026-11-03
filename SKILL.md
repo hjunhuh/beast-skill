@@ -126,15 +126,15 @@ The document only gives the 13-minute average. Scale other lengths proportionall
 | 5:30-11:40 | Back half | Explaining the medical checkup, the day that went wrong | Digested while viewers are in the lull |
 | 11:40-12:00 | Ending | Cut right after the checkup results are revealed | Abrupt ending |
 
-**모드 B 출력 양식**
+**Mode B output template**
 
 ```
-## 구간 맵 (총 L분, 재몰입 지점은 환산값)
-| 타임코드 | 구간 | 들어갈 장면 | 목적(지표) | 필요한 촬영분 |
-## 첫 1분 대본 초안 (첫 문장, 첫 화면, 썸네일 요소가 나오는 시점)
-## 재몰입 장치 2개: 무엇을, 왜 감탄하는가, 준비 비용
-## 후반부에 둘 내용과 끝 신호 점검
-## 결말: 보상 장면과 마지막 컷
+## Section map (L minutes total, re-engagement points are scaled values)
+| Timecode | Section | Scenes | Purpose (metric) | Footage needed |
+## First-minute script draft (first line, first shot, when each thumbnail element appears)
+## Two re-engagement devices: what, why it impresses, prep cost
+## What goes in the back half and an end-signal check
+## Ending: the payoff shot and the final cut
 ```
 
 ## 모드 C. 편집 노트
