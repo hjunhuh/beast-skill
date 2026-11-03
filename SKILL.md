@@ -150,14 +150,14 @@ Review order:
 5. **Progression speed.** Is enough time compressed into minutes 1 to 3 (several days, several stages)?
 6. **Re-engagement placement.** Do the devices actually sit at the target times on the section map? If they slipped, pull them earlier.
 7. **No dull moments.** Does each cut push the story forward? Mark cuts that do not as removal candidates. However, following premise 4, keep short breathers between scenes, reaction shots and emotional moments, and do not confuse them with dullness.
-8. **3~6분 장면 전환.** 이 구간은 빠른 장면 전환과 단순하고 자극적인 내용이 맞습니다.
-9. **후반부 품질.** 긴 설명이 후반부에 모였는지, 그래도 수준 이하인 구간은 없는지.
-10. **끝 신호 제거.** "마지막으로", "정리하자면", 이른 아웃트로 음악처럼 끝을 알리는 요소는 결말 보상을 키우는 용도가 아니면 삭제.
-11. **결말.** 보상 직후 바로 끝나는가. 긴 아웃트로, 반복 인사, 구독 부탁이 보상 뒤에 길게 붙으면 그래프 끝이 무너집니다.
-12. **사고를 콘텐츠로.** 촬영 중 계획대로 안 된 일을 잘라냈다면 오히려 넣을 가치가 있는지 검토. 문서의 태도는 웃긴 사고면 영상에서 언급하자는 것입니다.
-13. **진정성.** 연출된 가짜 반응, 진행자나 출연자가 거짓말하는 것처럼 만드는 편집은 금지. 문서는 강도(intensity)는 연기로 만들 수 없다고 봅니다.
-14. **출연진의 자연스러움.** 출연진의 장난과 엉뚱함은 살리는 쪽으로.
-15. **협찬 구간.** 모드 E 기준으로 점검.
+8. **Minutes 3 to 6 scene changes.** This stretch calls for quick scene changes and simple, stimulating content.
+9. **Back half quality.** Are long explanations gathered in the back half, and is there still no stretch below standard?
+10. **Remove end signals.** Cut anything that signals the end, such as "finally", "to wrap up" or early outro music, unless it builds anticipation for the payoff.
+11. **Ending.** Does the video end right after the payoff? A long outro, repeated goodbyes or subscribe requests tacked on after the payoff will collapse the end of the graph.
+12. **Turn accidents into content.** If moments where things went wrong on the shoot were cut, check whether they are worth putting back. The document's attitude is that if an accident is funny, mention it in the video.
+13. **Authenticity.** No staged fake reactions and no edits that make the host or participants look like they are lying. The document holds that intensity cannot be faked.
+14. **Natural cast.** Lean toward keeping the cast's goofing around and silliness.
+15. **Sponsor segment.** Review it against Mode E.
 
 **모드 C 출력 양식**
 
