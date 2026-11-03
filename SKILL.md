@@ -1,6 +1,6 @@
 ---
 name: beast-skill
-description: MrBeast 제작사의 신입 온보딩 문서(How to Succeed in MrBeast Production, 2024년 공개)의 원칙으로 유튜브 롱폼 영상의 기획, 제목과 썸네일, 분 단위 구성, 편집 지시서, 편집본 피드백, 리텐션 진단, 협찬 삽입, 촬영 준비와 외주 관리를 돕는다. 사용자가 유튜브 영상 아이디어, 제목, 썸네일, 대본, 편집 구성, 리텐션 그래프, 이탈 구간, 시청 지속 시간, 협찬 광고 배치, 촬영 일정을 다루거나 미스터비스트, 리텐션 편집, 후킹, 첫 1분, 재몰입, 와우 포인트를 언급하면 스킬 이름을 말하지 않아도 사용할 것.
+description: Applies the principles of MrBeast's production onboarding document (How to Succeed in MrBeast Production, made public in 2024) to long-form YouTube videos, covering ideas, titles and thumbnails, minute-by-minute structure, editor briefs, feedback on cuts, retention diagnosis, sponsor integration, shoot logistics and vendor management. Use it whenever the user works on YouTube video ideas, titles, thumbnails, scripts, edit structure, retention graphs, drop-off points, watch time, sponsor placement or shoot schedules, or mentions MrBeast, retention editing, hooks, the first minute, re-engagement or wow moments, even if they do not name this skill.
 ---
 
 # beast-skill
