@@ -115,3 +115,9 @@ After:
 > Most viewers decide in the first minute whether to keep watching, so that is where editing effort pays off first.
 
 <!-- slop-check-ignore-end -->
+
+## Script reference
+
+Wrap deliberate examples (like the catalogs above) in `<!-- slop-check-ignore-start -->` and `<!-- slop-check-ignore-end -->` so the checker skips them.
+
+`scripts/rules.ts` holds every rule (id, language, category, severity, pattern, message, fix); add house rules there. `scripts/slop-check.ts` exports `check(text, { lang })` for use from other scripts, and `scripts/slop-check.test.ts` covers the rule families. Run the tests with `node --test scripts/*.test.ts`.
