@@ -62,3 +62,26 @@ That's it. No need to name the skill: it triggers whenever you talk about YouTub
 | 14:20-15:00 | Ending | Boat arrives at 48:00, first bite of hot noodles, **cut** | Abrupt ending after the payoff |
 
 Plus title candidates ranked by intensity, two thumbnail options, a critical components table with stop criteria for safety, a first-minute script, and a copy-ready editor brief where every note has a timecode, a section and a reason tied to CTR, AVD or AVP.
+
+## 📈 The retention architecture
+
+The playbook's prototype is built on MrBeast's average video length of 13 minutes 37 seconds:
+
+```
+0:00      1:00               3:00                 6:00                          END
+ |  HOOK   |  CRAZY            |  RE-ENGAGE #1      |  RE-ENGAGE #2               |
+ |  match  |  PROGRESSION      |  simple, exciting, |  back half: long            |  ABRUPT
+ |  the    |  show, don't tell |  fast scene        |  explanations live here,    |  ENDING
+ |  thumb  |                   |  changes           |  never signal the end       |
+```
+
+Not making a 13-minute video? beast-skill scales it for you:
+
+| Your length | Re-engagement 1 | Re-engagement 2 |
+|---|---|---|
+| 8 min | ~1:50 | ~3:41 |
+| 10 min | ~2:18 | ~4:36 |
+| 15 min | ~3:27 | ~6:54 |
+| 20 min | ~4:36 | ~9:12 |
+
+*Formula: length x 0.23 and length x 0.46. Scaled values are always labeled as the skill's adaptation, not the playbook's text.*
