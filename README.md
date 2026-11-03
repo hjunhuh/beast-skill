@@ -159,5 +159,10 @@ deslop builds on Wikipedia's *Signs of AI writing* guide, [blader/humanizer](htt
 
 ## Sources
 
-- *How to Succeed in MrBeast Production* (36 pages, written by Jimmy Donaldson). Made public in August and September 2024. According to Passionfruit, two former MrBeast producers confirmed its authenticity.
-- Change in editing pace: Donaldson's public statement in March 2024, reported by The Washington Post.
+- *How to Succeed in MrBeast Production* (36 pages, Jimmy Donaldson). Made public in 2024; according to Passionfruit, two former MrBeast producers confirmed it.
+- Editing pace: Donaldson's March 2024 statement (The Washington Post), and Tubefilter's count of 38 vs 23 cuts per minute.
+- Shot length: a former editor's account that no shot in an older video ran past five seconds (Passionfruit).
+- Two-word caption chunks: Submagic's breakdown of the MrBeast caption style.
+- Wikipedia: *Signs of AI writing* (WikiProject AI Cleanup), blader/humanizer, hardikpandya/stop-slop.
+
+beast-skill is an unofficial project and is not affiliated with MrBeast or Beast Industries. It does not contain the original document.
