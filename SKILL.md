@@ -172,15 +172,15 @@ Review order:
 
 When writing an editor brief from scratch, put the Mode B section map before this template and add a one-line purpose for each section so the editor can check every cut against it.
 
-## 모드 D. 리텐션 진단
+## Mode D. Retention diagnosis
 
-사용자가 그래프 수치, 스크린샷 설명, AVD, AVP, 구간별 잔존율을 주면 진단합니다.
+Diagnose when the user provides graph values, a description of a screenshot, AVD, AVP or retention by section.
 
-1. **1분 지점 잔존율부터.** 문서 사례(6천만 클릭 중 1분 시점 약 3,900만 명 잔존, 약 65%)는 MrBeast 채널에서도 평균보다 나은 편이었습니다. 절대 기준으로 쓰지 말고 사용자 채널의 과거 영상과 비교하세요.
-2. **급락 지점마다 그 시점의 내용을 대조.** 흔한 원인은 썸네일 기대와 다른 장면, 예고만 이어지는 구간, 긴 설명, 대본 읽듯 하는 협찬, 끝을 알리는 신호, 결말 뒤 늘어지는 아웃트로입니다.
-3. **작은 AVD 차이도 크다.** 문서 사례로, 길이가 거의 같은 두 영상의 평균 시청 시간이 1분 38초 차이 났는데 조회수는 1억 2천만 대 4,500만으로 약 세 배였습니다.
-4. **같은 조건끼리 비교.** 문서는 영상 간 비교에 첫날 데이터를 씁니다. 업로드 후 경과 시간이 다른 수치를 섞지 말라고 안내하세요.
-5. **업로드 직후 순위.** 유튜브 스튜디오는 새 영상의 초반 성과를 최근 영상들과 비교한 순위로 보여줍니다. 문서는 이를 "10개 중 몇 위"로 부르며 1위가 좋고 10위가 나쁩니다.
+1. **Start with retention at the one-minute mark.** The document's example (about 39 million of 60 million viewers still watching at one minute, roughly 65%) was better than average even on MrBeast's channel. Do not use it as an absolute benchmark. Compare against the user's own past videos.
+2. **Match each sharp drop to what was on screen at that moment.** Common causes are scenes that differ from the thumbnail promise, stretches of teasers only, long explanations, sponsor reads that sound scripted, end signals, and outros that drag after the ending.
+3. **Small AVD gaps matter.** In the document's example, two videos of almost the same length differed by 1 minute 38 seconds in average view duration, and their views were 120 million versus 45 million, nearly three times apart.
+4. **Compare like with like.** The document compares videos using first-day data. Tell the user not to mix numbers taken at different times after upload.
+5. **Early rank after upload.** YouTube Studio shows how a new video's early performance ranks against the channel's recent videos. The document calls this "out of 10", where 1 out of 10 is good and 10 out of 10 is bad.
 
 **모드 D 출력 양식**
 
