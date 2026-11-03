@@ -90,3 +90,16 @@ Korean chatbot prose has its own fingerprints: translationese from English sente
 | Structure | Every sentence ends in "~니다" | eight "~습니다." in a row | Merge sentences or vary the endings where the register allows |
 | Vocabulary | Vague modifiers and stock phrases | "다양한", "효과적으로", "중요한 역할을 합니다", "~라고 할 수 있습니다", "시너지", "인사이트" | Say what varies, how it is effective, what role exactly |
 | Punctuation | Em dashes and middle-dot lists | "기획·촬영·편집" | Commas or "와/과". Proper nouns such as 3·1운동 stay |
+
+## Rewrite moves
+
+| Move | Before | After |
+|---|---|---|
+| Delete the throat-clearing | "It's worth noting that the API is rate-limited." | "The API is rate-limited." |
+| Replace the abstraction with the thing | "This plays a pivotal role in user engagement." | "Users who see it stay 40 seconds longer." |
+| Collapse the contrast | "It's not about speed. It's about trust." | "Trust matters more here than speed." (or just make the trust argument) |
+| Shrink the triplet | "fast, reliable, and scalable" | "It has not gone down in 14 months." |
+| Merge bullet fragments | "- **Fast:** builds in 2s" | "Builds take about two seconds." |
+| Attribute or cut | "Studies show retention matters." | Name the actual study and what it found, or delete the sentence |
+| End early | "...In summary, X is a powerful tool for Y." | Stop at the last concrete point |
+| 번역투 풀기 | "효율적인 편집을 통해 시청 지속 시간을 늘리는 것이 가능합니다." | "편집을 잘하면 시청 지속 시간이 늘어납니다." |
