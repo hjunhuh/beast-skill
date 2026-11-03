@@ -1,0 +1,9 @@
+{
+  "name": "beast-skill",
+  "version": "0.2.0",
+  "description": "MrBeast's production playbook as Claude skills: plan and diagnose YouTube videos (beast-skill), render MrBeast-style edits in Remotion (beast-remotion), and strip the AI voice from anything you publish (deslop).",
+  "author": { "name": "hjunhuh", "url": "https://github.com/hjunhuh" },
+  "homepage": "https://github.com/hjunhuh/beast-skill",
+  "repository": "https://github.com/hjunhuh/beast-skill",
+  "keywords": ["youtube", "mrbeast", "retention", "video-editing", "remotion", "writing", "skills"]
+}
