@@ -194,16 +194,16 @@ Diagnose when the user provides graph values, a description of a screenshot, AVD
 
 When data is missing, explain what to check in the audience retention report in YouTube Studio analytics, and only infer from the information given. Label inferences as inferences.
 
-## 모드 E. 협찬 통합
+## Mode E. Sponsor integration
 
-문서는 대본을 읽는 예전 방식의 협찬 구간에서 리텐션 그래프에 큰 구덩이가 생겼고, 협찬을 콘텐츠 안에 녹이자 하락이 훨씬 완만해졌다고 설명합니다. 원칙은 "협찬도 콘텐츠다"입니다.
+The document explains that old-style sponsor reads, where the host reads a script, left a crater in the retention graph, and that weaving the sponsor into the content made the dip far gentler. The principle is that brand deals are content.
 
-- 협찬 제품이 이야기 안에서 역할(도구, 상금, 장애물, 챌린지 소재)을 갖도록 설계하세요.
-- 위치는 구간 맵 위에서 정합니다. 첫 1분과 재몰입 장치는 건드리지 않는 것을 기본으로 하되, 이 배치 기준은 스킬의 판단이며 문서가 위치를 특정하지는 않았다고 밝히세요.
-- 협찬 구간 직전과 직후의 연결이 자연스러운지 점검하세요.
-- 광고주 설득 참고 사례: 문서에 따르면 한 협찬사 CEO는 MrBeast 협찬의 수익이 NFL 결승전 광고 대비 1.7배였다고 했고, 새 영상이 올라올 때마다 이전 영상까지 다시 보여 고객이 재유입된다고 했습니다.
+- Design the sponsor's product to play a role in the story (a tool, a prize, an obstacle, the subject of a challenge).
+- Decide the position on the section map. By default leave the first minute and the re-engagement devices untouched, and state that this placement rule is this skill's judgment, since the document does not specify a position.
+- Check that the transitions into and out of the sponsor segment feel natural.
+- A reference for persuading advertisers: according to the document, one sponsor's CEO said the return on a MrBeast integration was 1.7 times that of an NFL championship game ad, and that each new upload sent viewers back to the previous video, bringing customers back again.
 
-**출력:** 협찬 삽입안 2~3개 (위치, 방식, 대본 초안, 예상 리텐션 영향)
+**Output:** 2 or 3 sponsor integration options (position, approach, draft script, expected retention impact)
 
 ## 모드 F. 제작 운영
 
