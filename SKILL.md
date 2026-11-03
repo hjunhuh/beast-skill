@@ -87,21 +87,21 @@ MrBeast's production starts with the title and thumbnail. The title and thumbnai
 ## Format recommendation and why
 ```
 
-## 모드 B. 분 단위 구간 맵
+## Mode B. Minute-by-minute section map
 
-문서는 제작, 기획, 편집 누구든 지금 작업하는 내용이 영상의 몇 분 지점인지 항상 알아야 하며, 모르면 제대로 하는 게 아니라고 말합니다. 그래서 구성안은 반드시 분 단위 지도로 만드세요.
+The document says that everyone, whether in production, creative or editing, must always know which minute of the video they are working on, and that if they do not, they are not doing it right. So always build the structure as a minute-by-minute map.
 
-### 13분 기준 원형 (문서)
+### The 13-minute prototype (document)
 
-| 구간 | 해야 할 일 | 근거 |
+| Section | What to do | Why |
 |---|---|---|
-| 0:00~1:00 첫 1분 | 제목과 썸네일의 약속을 즉시 확인시키기. 첫 장면 조명을 밝게, 진행자가 할 말을 미리 준비, 가장 흥미로운 장면을 앞으로 당겨 배치(프론트로딩) | 거의 모든 영상에서 이탈이 가장 큰 구간. 문서 사례에서 6천만 클릭 중 2,100만 명이 1분 안에 이탈했는데 이것도 다른 채널보다 나은 편 |
-| 1:00~3:00 | "앞으로 볼 것"을 말하는 단계를 끝내고 실제로 보여주기. 미친 진행 속도: 숲에서 몇 주 버티는 영상이면 첫날부터 차근차근이 아니라 3분 안에 여러 날을 지나가기 | 시청자가 빨리 이야기에 투자하게 만듦 |
-| 약 3:00 재몰입 1 | 이야기에 맞으면서 진짜 감탄이 나오는 스펙터클. 이건 이 채널만 할 수 있다는 구간 | 이 시점에 지루해서 나가는 시청자를 붙잡음 |
-| 3:00~6:00 | 가장 흥미롭지만 단순한 내용, 빠른 장면 전환, 이야기를 반영하는 자극적인 장면. 등장인물과 이야기에 애정이 생기게 | 전반부를 보면 끝까지 볼 확률이 매우 높음 |
-| 약 6:00 재몰입 2 | 흥미롭지만 설명이 조금 더 필요한 장치. 후반부 이야기를 밀어주는 역할 | 후반부 진입 동력 |
-| 6:00~결말 후반부 | 시청자가 영상을 보고 있다는 사실도 잊은 몰입 상태. 상대적으로 덜 강한 내용과 긴 설명은 여기에. 계획대로 안 된 일도 콘텐츠로. 상금이나 결말 기대를 키우는 경우가 아니면 끝을 미리 알리지 않기 | 단, 후반부가 수준 이하라 망한 영상도 많다는 것이 문서의 경고 |
-| 결말 | 만족스러운 보상 직후 갑작스럽게 끝내기 | 끝을 끌면 리텐션 그래프 끝이 무너짐 |
+| 0:00-1:00 First minute | Confirm the title and thumbnail promise immediately. Light the opening well, have the host prepare what to say, and pull the most interesting moments forward (front-loading) | Nearly every video loses the most viewers here. In the document's example, 21 million of 60 million viewers who clicked left within the first minute, which was still better than other channels |
+| 1:00-3:00 | Stop telling viewers what they will see and start showing them. Crazy progression: in a video about surviving weeks in the woods, cover several days in the first three minutes instead of going day by day | Gets viewers invested in the story fast |
+| About 3:00 Re-engagement 1 | A spectacle that fits the story and genuinely impresses. A segment that makes people think only this channel can do this | Catches viewers who would get bored and leave at this point |
+| 3:00-6:00 | The most exciting content that is also very simple, quick scene changes, stimulating scenes that reflect the story. Make viewers fall in love with the people and the story | Viewers who watch the first half are very likely to finish |
+| About 6:00 Re-engagement 2 | Something interesting that needs a bit more explanation and pushes the story into the back half | Momentum into the back half |
+| 6:00-ending Back half | Viewers are in a lull, watching without noticing they are watching. Weaker material and long explanations go here. Things that went wrong can become content. Never signal the end unless it builds hype for the prize or payoff | The document warns that many videos died because the back half was bad |
+| Ending | Cut abruptly right after a satisfying payoff | Dragging the ending collapses the end of the retention graph |
 
 ### 길이 환산 (이 스킬의 적용 규칙)
 
