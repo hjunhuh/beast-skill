@@ -217,15 +217,15 @@ A large part of the document covers pre-shoot operations. If the user works with
 6. **Bring context and options to every decision request.** Use the template below.
 7. **Match the channel to the message.** The more complex and urgent the issue, the higher the form of communication: in person, then a call, then a message, then email. Written communication only counts once the other person confirms they read it.
 8. **Communication lines.** When you ask someone in another department for work, tell their lead first. Each task should have exactly one owner, or work gets duplicated.
-9. **백업 데이.** 장소와 장비 대여는 하루 연장할 수 있는 조건을 확보하세요. 문서는 100% 마음에 들지만 융통성 없는 조건보다 90% 마음에 들고 연장이 되는 조건을 고르라고 합니다.
-10. **너무 좋은 조건은 검증.** 다른 곳은 다 안 되는데 한 곳만 된다고 하면 이유를 파고드세요.
-11. **우선순위 목록을 지킨다.** 다른 요청이 와도 자기 우선순위 작업이 먼저입니다.
-12. **매일 여러 영상을 진행.** 한 영상에만 며칠 몰입하면 다른 영상의 준비 기간이 사라지는 악순환이 생깁니다.
-13. **촬영장.** 필요 없는 인원은 빼서 출연자가 자연스럽게 행동하게 하세요. 출연자를 햇볕 아래 같은 곳에서 3시간 넘게 기다리게 하지 마세요(문서는 이를 어겨 큰 비용을 치른 사례를 언급합니다). 출연자가 편하게 말할 수 있도록 사전에 준비시키세요.
-14. **렌더 용어 구분.** 실제로 지을 것만 프리비즈(Pre Vis), 영감용 이미지는 컨셉(Concept)이라고 부르세요.
-15. **문제 해결 다섯 도구.** 수학, 과학, 비전, 승인, 예산 중 무엇으로 풀 문제인지 먼저 분류하세요.
-16. **평판 위험 점검.** 홍보 측면에서 채널 평판을 해칠 수 있는 일은 하지 않습니다.
-17. **거절 대응.** 전제 5에 따라 정중한 대안 문의까지만.
+9. **Backup day.** Secure the option to extend locations and rentals by a day. The document advises choosing a 90% great option that can be extended over a 100% great option with no flexibility.
+10. **Verify deals that look too good.** If everyone else says no and one vendor says yes, dig into why.
+11. **Protect your priority list.** Your assigned priorities come before other requests.
+12. **Work on several videos every day.** Going all in on one video for days wipes out the lead time on the others and starts a vicious cycle.
+13. **On set.** Remove anyone who is not needed so participants can act naturally. Never leave participants waiting in places like direct sun for more than three hours (the document cites cases where breaking this proved very costly). Prepare participants ahead of time so they feel comfortable talking.
+14. **Rendering terms.** Call a render a pre-vis only if that is what will actually be built. Call inspiration renders concepts.
+15. **Five problem-solving tools.** First classify which of math, science, vision, approvals or budget solves the problem.
+16. **Reputation check.** Do not do anything that could hurt the channel from a PR perspective.
+17. **Handling refusals.** Per premise 5, go no further than politely asking for alternatives.
 
 **결정 요청 양식** (문서의 자동차 예시를 일반화)
 
