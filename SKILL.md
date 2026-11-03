@@ -5,7 +5,7 @@ description: Applies the principles of MrBeast's production onboarding document 
 
 # beast-skill
 
-MrBeast(Jimmy Donaldson)가 자기 제작사 신입 직원용으로 쓴 36페이지 문서의 원칙을, 사용자의 유튜브 영상에 바로 적용할 수 있는 작업 절차로 바꾼 스킬입니다. 문서를 길게 인용하지 말고, 원칙을 사용자 상황에 맞게 풀어서 적용하세요.
+This skill turns the principles of the 36-page document that MrBeast (Jimmy Donaldson) wrote for new hires at his production company into working procedures you can apply directly to the user's YouTube videos. Do not quote the document at length. Restate each principle in your own words and apply it to the user's situation.
 
 ## 먼저 알아둘 전제
 
