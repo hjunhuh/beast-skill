@@ -103,15 +103,15 @@ The document says that everyone, whether in production, creative or editing, mus
 | 6:00-ending Back half | Viewers are in a lull, watching without noticing they are watching. Weaker material and long explanations go here. Things that went wrong can become content. Never signal the end unless it builds hype for the prize or payoff | The document warns that many videos died because the back half was bad |
 | Ending | Cut abruptly right after a satisfying payoff | Dragging the ending collapses the end of the retention graph |
 
-### 길이 환산 (이 스킬의 적용 규칙)
+### Scaling to other lengths
 
-문서는 13분 평균만 제시합니다. 다른 길이는 아래처럼 비례로 환산하고, 출력에 "환산값"이라고 표시하세요.
+The document only gives the 13-minute average. Scale other lengths proportionally as below, and label the results as scaled values in the output.
 
-- 영상 길이를 L분이라 하면 첫 1분은 고정, 재몰입 1은 약 L x 0.23, 재몰입 2는 약 L x 0.46 지점입니다(13분 기준 3분, 6분의 비율).
-- L이 8분 미만이면 첫 30~45초에 약속을 확인하고, 재몰입 1은 4분의 1 지점, 재몰입 2는 절반 지점에 둡니다. 두 장치가 너무 가까우면 하나로 합치세요.
-- L이 20분을 넘으면 전반부 구조는 그대로 두고, 후반부에 결말 보상까지 긴장을 유지할 중간 보상을 추가하도록 제안하되 문서 밖의 확장임을 밝히세요.
-- 쇼츠는 문서가 다루지 않는 형식입니다. 패키징 일치와 갑작스러운 결말 원칙만 참고하고 분 단위 구조는 적용하지 마세요.
-- 문서에 따르면 실시간 촬영이나 감정적인 영상은 짧게, 대형 스펙터클은 길게 갑니다. 길이 자체도 내용 성격에 맞추세요.
+- For a video of L minutes, the first minute stays fixed, re-engagement 1 sits at about L x 0.23 and re-engagement 2 at about L x 0.46 (the ratios of 3 and 6 minutes in a 13-minute video).
+- If L is under 8 minutes, confirm the promise within the first 30 to 45 seconds, put re-engagement 1 at the one-quarter mark and re-engagement 2 at the halfway mark. If the two land too close together, merge them.
+- If L is over 20 minutes, keep the first-half structure and suggest adding a mid-point payoff in the back half to hold tension until the final payoff, while stating that this extends beyond the document.
+- Shorts are a format the document does not cover. Use only the packaging-match and abrupt-ending principles as references, and do not apply the minute-by-minute structure.
+- According to the document, real-time shoots and emotional videos run shorter and giant spectacles run longer. Fit the length itself to the nature of the content.
 
 ### 작성 예시 (12분, "편의점 음식만으로 7일 살아남기", 재몰입은 환산값)
 
