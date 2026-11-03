@@ -63,28 +63,28 @@ MrBeast's production starts with the title and thumbnail. The title and thumbnai
 | Stair Stepping | Escalating stakes, such as fireworks worth $1, $10, $50, $375, $1,000 and $10,000, ending with a world record | Stakes rise the deeper you go |
 | Chase | The creator is hunted and either caught or not | The outcome stays open until the end |
 
-**모드 A 출력 양식**
+**Mode A output template**
 
 ```
-## 패키징
-- 제목 후보 (강도 순): 1) ... 2) ... 3) ...
-- 썸네일 구성: 주 피사체 / 배경 / 색 / 텍스트(있다면)
-- 썸네일이 만드는 약속: 시청자가 기대할 것 한 줄
+## Packaging
+- Title candidates (by intensity): 1) ... 2) ... 3) ...
+- Thumbnail composition: main subject / background / colors / text (if any)
+- The promise the thumbnail makes: what the viewer will expect, in one line
 
-## 소재 강화안
-| 원안 | 더 극단적인 버전 | 추가 비용 |
+## Stronger versions of the idea
+| Original | More extreme version | Extra cost |
 
-## 와우 팩터
-- 무엇을, 몇 분 지점에, 왜 이 채널만 할 수 있는가
+## Wow factor
+- What, at which minute, and why only this channel can do it
 
-## 핵심 요소와 실현 가능성
-| 핵심 요소 | 없으면 생기는 일 | 확인할 것 | 백업 |
+## Critical components and feasibility
+| Critical component | What happens without it | What to verify | Backup |
 
-## 돈 대신 창의성
-| 고비용 항목 | 더 싸고 재미있는 대안 |
+## Creativity over money
+| Expensive item | Cheaper, more entertaining alternative |
 
-## 먼저 연락할 사람(컨설턴트)
-## 포맷 추천과 이유
+## Who to call first (consultants)
+## Format recommendation and why
 ```
 
 ## 모드 B. 분 단위 구간 맵
