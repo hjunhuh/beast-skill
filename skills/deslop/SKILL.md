@@ -23,3 +23,18 @@ The pattern list draws on three public sources, restated in our own words and ex
 4. **Do not fake humanity.** No invented anecdotes, fake typos, forced slang or made-up opinions. Specific beats casual.
 5. **Respect the user's own voice and preferences.** If they gave writing samples or style rules (for example "no em dashes, no middle dots"), those win over this list.
 6. **Leave quoted material alone,** including quotes of other people's AI-sounding text.
+
+## Workflow
+
+1. **Scan.** Run the checker on the text (it skips fenced code, inline code, URLs and block quotes):
+   ```bash
+   node <this skill>/scripts/slop-check.ts draft.md            # Node 22.18+ runs TypeScript directly
+   cat draft.txt | node <this skill>/scripts/slop-check.ts -
+   npx tsx <this skill>/scripts/slop-check.ts --json draft.md  # older Node
+   ```
+   Each hit prints `line:column severity rule "match" message. fix`, then a score in points per 100 words (high 3, medium 2, low 1): 2 or less is clean, 5 or less light, 10 or less noticeable, above 10 heavy. `--max-density N` exits 1 above N, which makes it usable as a pre-publish gate.
+2. **Read it yourself.** The script catches surface patterns. You still have to catch the structural ones: a paragraph that restates the previous one, a list of three where only one item matters, a closing line that summarizes what was just said, praise with no evidence.
+3. **Calibrate the voice.** If the user shared samples of their writing, match their sentence length, punctuation habits, contractions, register and how they open and close. If not, aim for a competent person explaining something to a colleague.
+4. **Rewrite** using the moves below, working through high-severity hits first.
+5. **Re-scan** and aim for "clean". If a hit is the right word in context (for example "robust" in statistics or "leverage" in finance), keep it.
+6. **Deliver** the rewritten text. Unless the user asked for an explanation, do not append a list of what you changed; if they did, keep it to a few lines grouped by pattern.
