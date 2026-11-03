@@ -115,3 +115,17 @@ Not making a 13-minute video? beast-skill scales it for you:
 - **"No doesn't mean no."** Clear refusals, filming permits and likeness rights are respected. The skill only suggests politely asking for alternatives.
 - **All-nighters and employee tiers.** Not production advice.
 - **Unverified rules stated as fact.** Permits, drones and similar rules are listed as things to verify.
+
+## ❓ FAQ
+
+**Is this official?**
+No. It is an unofficial project with no affiliation to MrBeast or Beast Industries, and it does not contain the original document. The principles are restated as procedures.
+
+**Does it work for Shorts?**
+Only partly. The playbook covers long-form. For Shorts, the skill applies the packaging-match and abrupt-ending principles and skips the minute map.
+
+**Does it work in my language?**
+Yes. The skill replies in the language you write in.
+
+**I'm a solo creator with no budget. Is this for me?**
+Yes. Every principle is scaled to your channel. MrBeast's numbers are shown as references, never as targets.
