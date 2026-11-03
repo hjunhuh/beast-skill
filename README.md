@@ -42,3 +42,8 @@ git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
 - **2024년 이후의 변화를 반영합니다.** MrBeast가 2024년 3월 영상 속도를 늦추고 스토리에 집중한다고 밝힌 만큼, 과잉 리텐션 편집을 기본값으로 쓰지 않습니다.
 - **채택하지 않은 부분이 있습니다.** 외부의 거절을 밀어붙이라는 대목, 밤샘 권유, 직원 등급 분류는 쓰지 않으며, 촬영 허가와 출연자 안전을 항상 우선합니다.
 - **규정은 확인 대상으로 다룹니다.** 촬영 허가, 드론, 채집 같은 규정은 단정하지 않고 확인할 항목으로 제시합니다.
+
+## 출처
+
+- How to Succeed in MrBeast Production (36페이지, Jimmy Donaldson 작성). 2024년 8~9월 공개되었고, Passionfruit 보도에 따르면 전직 MrBeast 프로듀서 두 명이 진위를 확인했습니다.
+- 편집 속도 변화: 2024년 3월 Donaldson의 공개 발언 (Washington Post 보도).
