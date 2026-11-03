@@ -119,3 +119,19 @@ All overlays take `at` and `duration` in seconds. Pair them with SFX as listed; 
 | `freeze` | Holding a frame under a statement. The source keeps running underneath, so freeze on silent moments or mute the clip | `at`, `duration` |
 
 Built-in SFX: `whoosh`, `pop`, `ding`, `boom`, `cash`, `riser`, `tick`, `buzzer`. Anything else is a path inside `public/` (for example `sfx/custom/laugh.mp3`). Music is `music: { src, volume, duckTo }` and ducks automatically while a caption word is being spoken. The user must bring a licensed track.
+
+## Beat recipes
+
+These are the combinations that read as "MrBeast editing". Times are relative to the beat.
+
+| Beat | Recipe |
+|---|---|
+| Cold open (first 3 s) | Title `big-text` at +0.1 s for 0.9 s, `punch` at +0.1 s, `whoosh` at +0.05 s and `boom` at +0.15 s, on a shot that already shows the thumbnail's main element |
+| Promise and stakes | `counter` for the money, `name-tag` for the person, every thumbnail element on screen and tagged with `promise` |
+| Preview montage (end of the hook) | Three 1 s clips of the best moments, `flash` and `whoosh` on each cut; never show the outcome |
+| Crazy progression | `day` stamp with `boom` at each new day, `timer` running from the end of the hook, clips of 2.5 to 3.5 s |
+| Re-engagement | `riser` starting 1.5 s before; on the beat `boom`, `punch` and a `big-text`, on a `slow-push` spectacle shot. Put the `reengage-*` marker on the beat |
+| Stair stepping | `price-tag` every 0.6 s with a `pop` each; the final step gets `big-text` and `boom` |
+| Failure or collapse | `shake` (0.9 s, intensity 30), `buzzer`, red `big-text`, then a 0.8 s `freeze` |
+| Elimination | `buzzer` and `eliminated` for 1.8 s with a short `shake` |
+| Payoff and ending | `punch` and `ding` on the reaction, then cut. No outro and no subscribe ask after the payoff |
