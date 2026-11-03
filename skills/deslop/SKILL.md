@@ -38,3 +38,34 @@ The pattern list draws on three public sources, restated in our own words and ex
 4. **Rewrite** using the moves below, working through high-severity hits first.
 5. **Re-scan** and aim for "clean". If a hit is the right word in context (for example "robust" in statistics or "leverage" in finance), keep it.
 6. **Deliver** the rewritten text. Unless the user asked for an explanation, do not append a list of what you changed; if they did, keep it to a few lines grouped by pattern.
+
+<!-- slop-check-ignore-start -->
+
+## Pattern catalog (English)
+
+| Category | Pattern | Example | Rewrite move |
+|---|---|---|---|
+| Punctuation | Em dash or spaced en dash used as all-purpose glue | "The tool is fast — really fast." | Pick the real job: comma, period, colon or parentheses |
+| Punctuation | Bold sprinkled through prose | "This is **critical** for **performance**." | Bold at most the one phrase a skimmer must not miss |
+| Punctuation | Bullets that open with a bold label and a colon | "- **Speed:** It's fast." | Write sentences, or use a real table for reference data |
+| Punctuation | Title Case Headings, emoji bullets, curly quotes in plain text | "## How To Get Started 🚀" | Sentence case, no emoji, straight quotes |
+| Structure | "Not just X, but Y" / "It's not X. It's Y." / "This isn't about X. It's about Y." | "It's not a tool. It's a movement." | State Y. Keep X only if someone actually believed it |
+| Structure | Question-and-reveal | "The result? A 40% drop." | "It dropped 40%." |
+| Structure | "Here's the thing:" and "Let's dive in" setups | "Here's why: ..." | Start with the point |
+| Structure | Rule of three as padding | "fast, reliable, and scalable" | Keep the item that is true and matters; prove it |
+| Structure | Trailing -ing clause that editorializes | "..., highlighting its importance." | End at the fact; make the claim its own sentence with evidence, or drop it |
+| Structure | "Serves as", "stands as", "boasts" | "The library serves as a bridge." | "is", "has", or the concrete verb |
+| Structure | Stock transitions and summary closers | "Moreover,", "Furthermore,", "In conclusion," | Delete; sentence order already carries the logic |
+| Structure | Hedge stacks | "may potentially help" | Hedge once, where the doubt is real |
+| Structure | False range | "from startups to enterprises" | Name who it is actually for |
+| Structure | Flat rhythm | eight sentences of 15 words each | Mix short and long |
+| Vocabulary | Chatbot words | delve, tapestry, testament, pivotal, seamless, intricate, multifaceted, holistic, foster, underscore, showcase, elevate, empower, embark, vibrant, meticulous, paramount, realm, ever-evolving, game-changer | The plain word, or a description of the actual thing |
+| Vocabulary | Stock phrases | "in today's fast-paced world", "plays a vital role", "it's worth noting", "unlock the power of", "whether you're a ..." | Delete, then say the specific thing |
+| Vocabulary | Intensifiers | truly, genuinely, incredibly, deeply | Cut, or replace with the detail that makes it true |
+| Chatbot voice | Openers and sign-offs | "Great question!", "Certainly!", "I hope this helps!", "Let me know if you have any questions" | Start with the answer; end on the last real point |
+| Chatbot voice | Sycophancy | "You're absolutely right!", "That's a fantastic point" | Respond to the substance |
+| Chatbot voice | Announcing structure | "Below is a comprehensive breakdown" | Just give the breakdown |
+| Chatbot voice | AI self-reference | "As an AI language model", "as of my last update" | Remove; if a date matters, state the date |
+| Content | Inflated significance and promotional tone | "a testament to the enduring power of", "stunning", "rich heritage" | Say what happened and let the reader judge |
+| Content | Vague attribution | "Experts say", "Studies show" | Name the source or drop the claim |
+| Content | Generic upbeat ending | "The future looks bright." | End on a concrete fact or next step |
