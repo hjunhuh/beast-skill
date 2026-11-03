@@ -43,3 +43,22 @@ git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
 **Other Claude surfaces:** add this folder (it only needs `SKILL.md`) as a custom skill.
 
 That's it. No need to name the skill: it triggers whenever you talk about YouTube ideas, titles, thumbnails, structure, edits or retention.
+
+## 👀 See it work
+
+> **You:** I run a 50K-subscriber camping channel. Next video: "48 hours on a deserted island with $10." About 15 minutes. Give me titles, a thumbnail, a minute-by-minute structure and a brief for my editor.
+
+**beast-skill** (excerpt from a real test run, translated):
+
+| Timecode | Section | Scene | Why |
+|---|---|---|---|
+| 0:00-0:10 | First minute | Drone pulls back as the boat leaves the host on the island | Confirms the title promise in frame one |
+| 0:10-0:30 | First minute | Host holds up one plastic bag: "This is everything. $10." Receipt on screen | Thumbnail element + kills the "what about the boat?" doubt |
+| 0:40-0:55 | First minute | 3 most dramatic moments, 2 to 4 seconds each, no outcomes shown | Front-loading |
+| 1:00-3:27 | Day one | Unpacking, island lap, first shelter as a time-lapse | Crazy progression |
+| **~3:27** | **Re-engagement 1** *(scaled)* | Sunset drone pull-out to open ocean, then a star time-lapse | "Only this channel" isolation shot |
+| **~6:54** | **Re-engagement 2** *(scaled)* | "A tarp won't survive tonight. I'm building a house from washed-up trash." | Pulls viewers into the back half |
+| ~10:30 | Mid-point payoff | Drone reveal of the finished shelter, same angle as the thumbnail | Pays off the thumbnail promise |
+| 14:20-15:00 | Ending | Boat arrives at 48:00, first bite of hot noodles, **cut** | Abrupt ending after the payoff |
+
+Plus title candidates ranked by intensity, two thumbnail options, a critical components table with stop criteria for safety, a first-minute script, and a copy-ready editor brief where every note has a timecode, a section and a reason tied to CTR, AVD or AVP.
