@@ -113,18 +113,18 @@ The document only gives the 13-minute average. Scale other lengths proportionall
 - Shorts are a format the document does not cover. Use only the packaging-match and abrupt-ending principles as references, and do not apply the minute-by-minute structure.
 - According to the document, real-time shoots and emotional videos run shorter and giant spectacles run longer. Fit the length itself to the nature of the content.
 
-### 작성 예시 (12분, "편의점 음식만으로 7일 살아남기", 재몰입은 환산값)
+### Worked example (12 minutes, "Surviving 7 days on convenience store food only", re-engagements are scaled values)
 
-| 타임코드 | 구간 | 장면 | 목적 |
+| Timecode | Section | Scene | Purpose |
 |---|---|---|---|
-| 0:00~0:20 | 첫 1분 | 7일치 편의점 음식 산더미를 썸네일과 같은 구도로, 규칙을 한 문장으로 | 약속 확인 (AVD) |
-| 0:20~1:00 | 첫 1분 | 7일 중 가장 극적인 순간 3개를 짧게 미리 보여주기 | 프론트로딩 |
-| 1:00~2:45 | 1~3분 | 1~3일차를 압축, 날짜 자막으로 진행감 | 미친 진행 속도 |
-| 약 2:45 | 재몰입 1 | 편의점 상품개발자가 직접 만든 미출시 도시락 등장 | 이 채널만의 접근권 |
-| 2:45~5:30 | 3~6분 구간 | 4~5일차, 짧은 장면 전환, 컨디션 변화 | 인물에 대한 애정 |
-| 약 5:30 | 재몰입 2 | 6일차부터 "하루 1만 원 제한" 새 규칙 (설명 필요) | 후반부 동력 |
-| 5:30~11:40 | 후반부 | 건강검진 과정 설명, 실패한 날 이야기 | 몰입 상태에서 소화 |
-| 11:40~12:00 | 결말 | 검진 결과 공개 직후 컷 | 갑작스러운 결말 |
+| 0:00-0:20 | First minute | A mountain of seven days' worth of convenience store food, framed like the thumbnail, and the rules in one sentence | Confirm the promise (AVD) |
+| 0:20-1:00 | First minute | Quick previews of the three most dramatic moments of the seven days | Front-loading |
+| 1:00-2:45 | Minutes 1-3 | Days 1 to 3 compressed, with day captions for a sense of progress | Crazy progression |
+| About 2:45 | Re-engagement 1 | An unreleased lunch box made by a convenience store product developer | Access only this channel has |
+| 2:45-5:30 | Minutes 3-6 | Days 4 and 5, short scene changes, changes in energy and health | Viewers grow attached to the host |
+| About 5:30 | Re-engagement 2 | A new rule from day 6: a daily budget cap (needs some explaining) | Momentum into the back half |
+| 5:30-11:40 | Back half | Explaining the medical checkup, the day that went wrong | Digested while viewers are in the lull |
+| 11:40-12:00 | Ending | Cut right after the checkup results are revealed | Abrupt ending |
 
 **모드 B 출력 양식**
 
