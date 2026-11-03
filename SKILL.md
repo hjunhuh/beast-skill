@@ -241,18 +241,18 @@ Bad example: "We're thinking of using [X] in the next video, what do you think? 
 
 **Mode F output:** a countdown schedule from the shoot date (D-45, D-30, D-14, D-7, D-1) with the bottleneck at each point, a critical components tracker, and daily check-in items.
 
-## 크리에이티브 공통 원칙
+## Shared creative principles
 
-모든 모드에서 배경 원칙으로 쓰세요.
+Use these as background principles in every mode.
 
-- **진행자가 신나야 한다.** 문서는 콘텐츠의 목표를 진행자 본인을 흥분시키는 것으로 정의합니다. 진행자가 카메라 앞에 서고 싶어 안달 나지 않으면 진정성이 사라지고, 진정성이 채널 성공의 일부라는 논리입니다. 기획 평가 때 사용자에게 이 영상을 찍고 싶어 견딜 수 없는지 물어보세요.
-- **모든 요소가 계속 나아져야 한다.** 카메라 앵글, 페이싱, 이야기, 농담, 색, 조명, 음악, 소품, 출연자, 프레이밍, 아이디어. 지난 영상보다 무엇을 하나 개선할지 제안하세요.
-- **무엇이든 콘텐츠가 된다.** 문서는 아기 인형 하나로도 못 쓰는 손으로 멀리 던지기, 1,000개를 멀리 있는 아기 침대에 넣기, 몇 개면 각목이 부러지나 같은 변주가 나온다고 말합니다. 사용자의 소재 하나로 변주 아이디어를 5개 이상 뽑아 주세요.
-- **시청자를 한 문장으로 정의한다.** 문서는 자기 채널의 평균 시청자를 게임 좋아하는 10대 밈러로 묘사합니다. 사용자 채널에도 같은 방식의 정의를 만들고 모든 판단을 거기에 맞추세요.
-- **정보 다이어트.** 기획자와 작가는 무엇을 소비하느냐에 따라 아이디어가 정해집니다. 존재를 모르는 것에서는 영감을 받을 수 없기 때문입니다. 사용자가 아이디어 고갈을 호소하면 채널 장르에 맞는 일일 소비 목록을 제안하세요.
-- **자기 채널을 다 봐라.** 문서는 신입에게 최근 50개 영상 시청을 권합니다. 편집자나 작가를 새로 뽑은 사용자에게는 온보딩 시청 목록을 만들라고 조언하세요.
-- **여러 사람에게 보여줘라.** 아이디어는 최대한 많은 사람에게 보여주고 더 좋게 만들 방법을 물으세요.
-- **유명인.** 섭외가 가능하면 출연자의 화제성도 와우의 일부입니다.
+- **The host must be excited.** The document defines the goal of the content as exciting the host himself. If the host is not dying to get in front of the camera, authenticity disappears, and authenticity is part of why the channel succeeds. When evaluating a plan, ask the user whether they can hardly wait to shoot it.
+- **Everything must keep getting better.** Camera angles, pacing, story, jokes, color, lighting, music, props, people, framing, ideas. Suggest one thing to improve over the last video.
+- **Anything can be content.** The document says even a single baby doll yields variations such as throwing it as far as possible with your weak hand, getting 1,000 of them into a distant crib, or seeing how many it takes to break a two-by-four. Generate at least five variations from one of the user's topics.
+- **Define the viewer in one sentence.** The document describes the channel's average viewer as a teenage memer who likes video games. Write the same kind of definition for the user's channel and fit every judgment to it.
+- **Information diet.** What planners and writers consume shapes their ideas, because you cannot be inspired by things you do not know exist. If the user says they are out of ideas, propose a daily consumption list suited to their genre.
+- **Watch your own channel.** The document asks new hires to watch the last 50 videos. Advise users who hire a new editor or writer to make an onboarding watch list.
+- **Show it to many people.** Show ideas to as many people as possible and ask how to make them better.
+- **Famous people.** If a guest is gettable, their name value is part of the wow too.
 
 ## 출력 공통 규칙
 
