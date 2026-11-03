@@ -26,3 +26,24 @@ jobs:
         run: npm test
       - name: Demo plan passes the retention checker
         run: npm run check:demo
+
+  deslop:
+    name: deslop checker
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: skills/deslop
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: skills/deslop/package-lock.json
+      - run: npm ci
+      - name: Type check
+        run: npm run typecheck
+      - name: Unit tests
+        run: npm test
+      - name: Our own docs pass deslop
+        run: node scripts/slop-check.ts --max-density 3 ../../README.md ../beast-skill/SKILL.md ../beast-remotion/SKILL.md ../deslop/SKILL.md
