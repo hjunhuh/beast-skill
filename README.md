@@ -1,49 +1,25 @@
-# beast-skill
+<h1 align="center">🎬 beast-skill</h1>
 
-MrBeast 제작사의 신입 온보딩 문서 "How to Succeed in MrBeast Production"(2024년 공개)의 원칙으로 유튜브 롱폼 영상의 기획, 분 단위 구성, 편집 지시, 리텐션 진단, 협찬 삽입, 제작 운영을 돕는 Claude 스킬입니다.
+<p align="center">
+  <b>MrBeast's internal production playbook, turned into a Claude skill.</b><br>
+  Plan, package, structure, edit and diagnose your YouTube videos minute by minute.
+</p>
 
-MrBeast 또는 Beast Industries와 관련 없는 비공식 프로젝트이며, 문서 원문을 담고 있지 않습니다. 원칙을 풀어서 작업 절차로 재구성했습니다.
+<p align="center">
+  <a href="https://github.com/hjunhuh/beast-skill/stargazers"><img src="https://img.shields.io/github/stars/hjunhuh/beast-skill?style=flat&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/hjunhuh/beast-skill/commits/main"><img src="https://img.shields.io/github/last-commit/hjunhuh/beast-skill?color=green" alt="Last commit"></a>
+  <img src="https://img.shields.io/badge/Claude-Skill-D97757?logo=anthropic&logoColor=white" alt="Claude Skill">
+  <img src="https://img.shields.io/badge/YouTube-long--form-FF0000?logo=youtube&logoColor=white" alt="YouTube long-form">
+  <img src="https://img.shields.io/badge/based_on-36--page_playbook-black" alt="Based on a 36-page playbook">
+  <img src="https://img.shields.io/badge/modes-6-blueviolet" alt="6 modes">
+</p>
 
-## 무엇을 하나요
+<p align="center">
+  <a href="#-install">Install</a> |
+  <a href="#-see-it-work">Demo</a> |
+  <a href="#-the-retention-architecture">Retention architecture</a> |
+  <a href="#-six-modes">Six modes</a> |
+  <a href="#-faq">FAQ</a>
+</p>
 
-사용자가 가져온 것에 따라 6개 모드 중 하나 이상으로 작업합니다.
-
-| 가져온 것 | 모드 | 결과물 |
-|---|---|---|
-| 아이디어, 소재 | A. 패키징 우선 기획 | 제목 후보, 썸네일 구성, 소재 강화안, 와우 팩터, 핵심 요소 표 |
-| 기획안, 대본 | B. 분 단위 구간 맵 | 타임코드별 구성표, 첫 1분 대본, 재몰입 장치 2개 |
-| 편집본, 편집 지시 요청 | C. 편집 노트 | 타임코드, 구간, 지시, 이유가 붙은 편집 노트 |
-| 리텐션 그래프, AVD, AVP | D. 리텐션 진단 | 손실 구간별 원인 추정과 다음 영상 처방 |
-| 협찬 영상 | E. 협찬 통합 | 협찬 삽입안 2~3개 |
-| 촬영 일정, 외주 | F. 제작 운영 | 촬영일 역산 일정표, 핵심 요소 관리표 |
-
-## 설치
-
-Claude Code에서는 개인 스킬 폴더에 클론하면 됩니다.
-
-```bash
-git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
-```
-
-다른 환경에서는 `SKILL.md`가 들어 있는 이 폴더를 스킬로 등록해 사용하세요.
-
-## 사용 예시
-
-스킬 이름을 말하지 않아도 유튜브 기획, 편집, 리텐션 관련 요청이면 동작합니다.
-
-- "구독자 5만 캠핑 채널인데 '1만 원으로 무인도에서 48시간' 15분짜리로 제목, 썸네일, 분 단위 구성, 편집자 지시서까지 짜줘"
-- "이 편집본 타임라인 보고 리텐션 관점에서 피드백 줘"
-- "지난 영상이 1분에 45% 빠졌어. 그래프 수치 보고 원인 찾아줘"
-- "협찬 제품을 영상 흐름 안에 자연스럽게 넣는 방법 알려줘"
-
-## 설계 원칙
-
-- **문서, 환산, 적용을 구분합니다.** 문서에서 온 원칙, 13분 기준 수치를 다른 길이로 바꾼 값, 스킬이 덧붙인 제안을 결과물에서 따로 표시합니다.
-- **2024년 이후의 변화를 반영합니다.** MrBeast가 2024년 3월 영상 속도를 늦추고 스토리에 집중한다고 밝힌 만큼, 과잉 리텐션 편집을 기본값으로 쓰지 않습니다.
-- **채택하지 않은 부분이 있습니다.** 외부의 거절을 밀어붙이라는 대목, 밤샘 권유, 직원 등급 분류는 쓰지 않으며, 촬영 허가와 출연자 안전을 항상 우선합니다.
-- **규정은 확인 대상으로 다룹니다.** 촬영 허가, 드론, 채집 같은 규정은 단정하지 않고 확인할 항목으로 제시합니다.
-
-## 출처
-
-- How to Succeed in MrBeast Production (36페이지, Jimmy Donaldson 작성). 2024년 8~9월 공개되었고, Passionfruit 보도에 따르면 전직 MrBeast 프로듀서 두 명이 진위를 확인했습니다.
-- 편집 속도 변화: 2024년 3월 Donaldson의 공개 발언 (Washington Post 보도).
+---
