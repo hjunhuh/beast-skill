@@ -71,3 +71,26 @@ Placeholders are a feature: a plan made entirely of `{ kind: "placeholder", labe
 | Midpoint payoff (long videos) | `markers: { kind: "midpoint-payoff" }` |
 | Final payoff | `markers: { kind: "payoff" }`; the video should end within `payoffToEndMaxSeconds` |
 | Each scene row | one or more `clips` (jump cuts are clips back to back) |
+
+## Presets
+
+Pick **modern** by default for new uploads; pick **classic** when the user asks for retention editing as it looked in 2019 to 2023. In March 2024 MrBeast said he had slowed his videos down, focused on story and stopped yelling as much; Tubefilter counted 38 cuts in one minute of a 2023 video and 23 in a 2024 one. The checker's pacing ranges are built around those two counts.
+
+All values are at 1920x1080 and 30 fps and scale with the composition height. Values marked "sourced" come from reporting; the rest are starting points tuned by eye and live in `presets.ts`.
+
+| Setting | classic | modern | |
+|---|---|---|---|
+| Caption mode | `chunks` (every word) | `keywords` (money, numbers, keywords only) | |
+| Words per chunk | 2 | 3 | sourced (classic) |
+| Caption size / stroke | 118 px / 13 px | 92 px / 10 px | |
+| Caption line height | 74% down | 80% down | |
+| Word pop | spring damping 9, stiffness 240, mass 0.55, from 0.45 scale, up to ±4° tilt | damping 16, stiffness 190, mass 0.7, from 0.75, no tilt | |
+| Punch effect | 1.16x, in 3 frames, out 6 frames | 1.08x, in 6, out 10 | |
+| Clip `punch-in` crop | 1.22x | 1.15x | |
+| Clip `slow-push` | +6% across the clip | +5% | |
+| Shake | 22 px, linear decay | 11 px | |
+| Flash | 4 frames | 3 frames | |
+| SFX volume | 0.85 | 0.6 | |
+| Cuts per minute before re-engagement 1 | 24 to 45 | 15 to 30 | sourced (38 and 23) |
+| Longest shot | 5 s (7.5 s in the back half) | 9 s (14.4 s in the back half) | sourced (classic) |
+| Payoff to last frame | 4 s or less | 8 s or less | |
