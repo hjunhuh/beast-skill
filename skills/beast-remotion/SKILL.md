@@ -39,3 +39,22 @@ template/
 ```
 
 Read `template/src/beast/types.ts` before writing a plan; it documents every field.
+
+## Workflow
+
+1. **Get the plan right first.** If the user has no section map, run the `beast-skill` workflow (packaging first, then the minute-by-minute map). From it you need: total length, preset, the thumbnail promise elements, and the timecodes for the hook end, both re-engagements, any midpoint payoff and the final payoff.
+2. **Set up the project.**
+   ```bash
+   cp -r <this skill>/template ./my-video && cd my-video
+   npm install
+   npm run assets        # fonts + SFX into public/ (dev and render run this too)
+   ```
+   Put footage in `public/footage/` and reference it as `footage/name.mp4`.
+3. **Write the plan.** Either a TypeScript file modeled on `src/demo/demoPlan.ts` (best when Claude is writing it: typed, and `clipStarts()` lets overlays reference clip starts), or JSON via `npm run plan:demo > plans/my-video.json` and edit. Use the mapping table below.
+4. **Add captions.** Word-level timestamps give the real pop rhythm (see "Captions from a transcript"). With only a script, `spreadWords(line, start, end)` spreads a line across its time range.
+5. **Check.** `npm run check -- plans/my-video.json` (or `npm run check:demo`). Fix every FAIL. For each WARN, fix it or tell the user why it is intentional.
+6. **Preview.** `npm run dev` opens Remotion Studio. The guide bar at the bottom shows the current playbook section, the hook and re-engagement targets (green and yellow ticks) and the plan's markers (white ticks). It is hidden in renders unless `showGuides: true`.
+7. **Render.** `npm run render -- out/my-video.mp4 --props=plans/my-video.json`. A props file is `{"plan": {...}}`.
+8. **Report** the checker summary, the preset, and anything you could not do (for example missing footage left as placeholders).
+
+Placeholders are a feature: a plan made entirely of `{ kind: "placeholder", label }` clips renders as a moving storyboard, so the structure can be reviewed before anything is shot.
