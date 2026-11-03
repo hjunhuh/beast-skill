@@ -134,3 +134,11 @@ Yes. Every principle is scaled to your channel. MrBeast's numbers are shown as r
 
 - *How to Succeed in MrBeast Production* (36 pages, written by Jimmy Donaldson). Made public in August and September 2024. According to Passionfruit, two former MrBeast producers confirmed its authenticity.
 - Change in editing pace: Donaldson's public statement in March 2024, reported by The Washington Post.
+
+## ⭐ Star history
+
+If beast-skill saved your first minute, a star helps other creators find it.
+
+<a href="https://star-history.com/#hjunhuh/beast-skill&Date">
+  <img src="https://api.star-history.com/svg?repos=hjunhuh/beast-skill&type=Date" alt="Star History Chart">
+</a>
