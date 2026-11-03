@@ -58,3 +58,16 @@ Read `template/src/beast/types.ts` before writing a plan; it documents every fie
 8. **Report** the checker summary, the preset, and anything you could not do (for example missing footage left as placeholders).
 
 Placeholders are a feature: a plan made entirely of `{ kind: "placeholder", label }` clips renders as a moving storyboard, so the structure can be reviewed before anything is shot.
+
+## Section map to plan
+
+| beast-skill section map | Edit plan |
+|---|---|
+| Thumbnail elements | `thumbnailPromise: [...]`, plus `promise: [...]` on the clip or overlay where each appears. The checker fails if one is missing before the hook ends |
+| End of the first minute (promise confirmed) | `markers: { kind: "hook-end" }` |
+| Front-loaded preview of the best moments | three 1 s placeholder or footage clips, a `flash` and a `whoosh` on each cut, outcomes not shown |
+| Re-engagement 1 and 2 | `markers: { kind: "reengage-1" }` and `"reengage-2"` at the beat, plus the recipe below |
+| Crazy progression | `day` stamps, a running `timer`, short clips |
+| Midpoint payoff (long videos) | `markers: { kind: "midpoint-payoff" }` |
+| Final payoff | `markers: { kind: "payoff" }`; the video should end within `payoffToEndMaxSeconds` |
+| Each scene row | one or more `clips` (jump cuts are clips back to back) |
