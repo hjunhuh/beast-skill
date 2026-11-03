@@ -96,3 +96,15 @@ Not making a 13-minute video? beast-skill scales it for you:
 | 📉 A retention graph | **D. Retention diagnosis** | Every drop matched to what was on screen, plus fixes for the next video |
 | 🤝 A sponsor | **E. Sponsor integration** | 2 to 3 ways to make the brand deal part of the story |
 | 📅 A shoot | **F. Production operations** | A countdown schedule from D-45, bottleneck owners, daily check-ins |
+
+## 🔥 What's baked in
+
+- **Packaging first.** Titles and thumbnails are decided before the shoot, because they define what the first minute has to deliver.
+- **"Ketchup, not front yard."** Same effort, more extreme topic. "I survived" beats "I spent".
+- **Thumbnail-video match.** A yellow bouncy castle in the thumbnail means a yellow bouncy castle in the video. Every thumbnail element becomes a critical component.
+- **The wow factor.** One moment no other creator could pull off, scaled to your budget: access, expertise and effort instead of cranes.
+- **Creativity saves money.** A year of Doritos beats a $20,000 prize, and costs $1,825.
+- **Consultants are cheat codes.** Call whoever did it before you.
+- **Formats.** Last to Leave, Stair Stepping, Chase, and why you never run the same one back to back.
+- **Brand deals are content.** No more retention craters at the sponsor read.
+- **The ops layer.** Name your bottlenecks, video everything, say the negatives, keep a backup day.
