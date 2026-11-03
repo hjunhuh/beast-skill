@@ -58,9 +58,9 @@ cp -r beast-skill/skills/beast-remotion ~/.claude/skills/   # or beast-skill, de
 | [**beast-remotion**](skills/beast-remotion/SKILL.md) | A working Remotion + TypeScript project that renders that plan as a MrBeast-style edit, with a checker that fails the plan when the structure is wrong | "Turn this section map into a Remotion edit with captions and SFX, classic style." |
 | [**deslop**](skills/deslop/SKILL.md) | Finds and rewrites chatbot tells in English and Korean, with a zero-dependency TypeScript checker | "Deslop this README before I post it." |
 
-## The retention architecture
+## beast-skill: plan the video
 
-The playbook's prototype is built on MrBeast's average video length of 13 minutes 37 seconds:
+The playbook's structure, built on MrBeast's average length of 13 minutes 37 seconds:
 
 ```
 0:00      1:00               3:00                 6:00                          END
@@ -70,7 +70,7 @@ The playbook's prototype is built on MrBeast's average video length of 13 minute
  |  thumb  |                   |  changes           |  never signal the end       |
 ```
 
-Not making a 13-minute video? beast-skill scales it for you:
+Not making a 13-minute video? It scales: re-engagements land at length x 0.23 and length x 0.46.
 
 | Your length | Re-engagement 1 | Re-engagement 2 |
 |---|---|---|
@@ -79,7 +79,7 @@ Not making a 13-minute video? beast-skill scales it for you:
 | 15 min | ~3:27 | ~6:54 |
 | 20 min | ~4:36 | ~9:12 |
 
-*Formula: length x 0.23 and length x 0.46. Scaled values are always labeled as the skill's adaptation, not the playbook's text.*
+Six modes, picked from what you bring: packaging-first planning, a minute-by-minute map, edit notes, retention diagnosis, sponsor integration and production operations. Every note comes with a timecode and the metric it protects (CTR, AVD or AVP), and the skill marks which parts come from the playbook and which parts it scaled.
 
 ## Six modes
 
