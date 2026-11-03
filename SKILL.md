@@ -159,18 +159,18 @@ Review order:
 14. **Natural cast.** Lean toward keeping the cast's goofing around and silliness.
 15. **Sponsor segment.** Review it against Mode E.
 
-**모드 C 출력 양식**
+**Mode C output template**
 
 ```
-## 총평 (3줄 이내): 가장 큰 리텐션 위험 1개, 가장 좋은 구간 1개
-## 편집 노트
-| 타임코드 | 구간 | 지시 | 이유(지표) | 우선순위(필수/권장/선택) |
-## 구간 맵 대비 차이: 재몰입 1, 2의 실제 위치와 목표 위치
-## 삭제 후보 목록과 줄어드는 총 시간
-## 다음 영상에도 적용할 규칙 1~3개
+## Summary (3 lines max): the biggest retention risk and the strongest section
+## Edit notes
+| Timecode | Section | Instruction | Reason (metric) | Priority (must / should / nice to have) |
+## Gap against the section map: actual vs target positions of re-engagements 1 and 2
+## Removal candidates and total time saved
+## 1 to 3 rules to apply on the next video too
 ```
 
-편집 지시서를 처음부터 쓰는 경우에는 위 양식 앞에 모드 B의 구간 맵을 붙이고, 편집자가 컷마다 확인할 수 있게 각 구간의 목적을 한 줄씩 적어 주세요.
+When writing an editor brief from scratch, put the Mode B section map before this template and add a one-line purpose for each section so the editor can check every cut against it.
 
 ## 모드 D. 리텐션 진단
 
