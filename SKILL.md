@@ -41,15 +41,15 @@ Pick the mode based on what the user brings. If several apply, run them in order
 | A sponsored video, product placement | E. Sponsor integration |
 | A shoot schedule, vendors, location scouting, team operations | F. Production operations |
 
-## 모드 A. 패키징 우선 기획
+## Mode A. Packaging-first planning
 
-MrBeast의 제작은 제목과 썸네일에서 시작합니다. 제목과 썸네일이 시청자의 기대를 정하고 첫 1분은 그 기대를 확인시켜 주는 구간이라, 패키징을 모르면 첫 장면을 설계할 수 없기 때문입니다. 대본이나 촬영 계획보다 먼저 아래를 진행하세요.
+MrBeast's production starts with the title and thumbnail. The title and thumbnail set the viewer's expectations and the first minute exists to confirm them, so you cannot design the opening without knowing the packaging. Do the following before any script or shoot plan.
 
-1. **같은 노력이면 더 극단적인 소재로.** 문서의 예시로, 앞마당에서 50시간 보내기와 케첩이 담긴 욕조에서 50시간 보내기는 드는 시간과 노력이 비슷하지만 후자가 훨씬 더 퍼집니다. 사용자 아이디어마다 비슷한 비용으로 더 시각적이고 극단적인 버전을 2~3개 제시하세요.
-2. **제목 단어의 강도를 올린다.** "~해봤다"보다 "~에서 살아남았다"가, "바나나가 별로다"보다 "바나나는 세상에서 최악의 음식이다"가 강합니다. 한국어 제목도 동사와 수식어의 강도를 비교한 후보를 내세요. 단, 영상이 실제로 보여주지 못하는 과장은 기대 불일치로 이탈을 부르므로 제안하지 않습니다.
-3. **썸네일 요소와 영상 속 실물을 일치시킨다.** 문서의 예시로, 썸네일에는 빌딩 옆 거대한 노란 에어바운스가 있는데 영상에는 들판의 빨간 에어바운스가 나오고 세계 최대도 아니면 시청자는 속았다고 느끼고 나갑니다. 썸네일에 들어간 색, 크기, 배경, 인물, 소품은 모두 영상에 그대로 나와야 하는 핵심 요소로 등록하세요.
-4. **단순하게.** 수천만 명이 이해하려면 단순해야 한다는 것이 문서의 입장입니다(문서도 이 원칙에는 걸러서 적용하라는 단서를 붙였습니다). 영상 콘셉트를 한 문장으로 말할 수 있는지 시험하고, 안 되면 줄이세요.
-5. **와우 팩터를 하나 정한다.** 문서의 예시로, 원 안에서 100일 버티기 영상에서 참가자가 살 집을 처음부터 원 안에 두지 않고 시작 30초쯤 크레인으로 들어 옮겨 왔습니다. 데이터로 보면 비효율이지만 이 채널만 할 수 있는 일이라는 인상을 남깁니다. 사용자 규모에서는 돈 대신 전문성, 접근권, 인맥, 노력의 양, 독특한 장소로 만드는 와우를 제안하세요.
+1. **For the same effort, pick the more extreme topic.** The document's example: spending 50 hours in a front yard and spending 50 hours in a bathtub of ketchup take about the same time and effort, but the second spreads far more. For each of the user's ideas, offer two or three more visual and more extreme versions at a similar cost.
+2. **Raise the intensity of the title wording.** "I survived" beats "I spent", and "Bananas are the worst food on Earth" beats "I don't like bananas". Offer title candidates in the user's language that compare the strength of verbs and modifiers. Never propose exaggerations the video cannot deliver, because broken expectations cause viewers to leave.
+3. **Make thumbnail elements match what is actually in the video.** The document's example: if the thumbnail shows a giant yellow bouncy castle next to skyscrapers, but the video shows a red one in a field and it is not the world's largest, viewers feel lied to and click away. Register every color, size, background, person and prop in the thumbnail as a critical component that must appear in the video as shown.
+4. **Keep it simple.** The document's position is that something must be simple for tens of millions of people to understand it (and it adds that this, too, should be applied with judgment). Test whether the concept fits in one sentence, and cut it down if it does not.
+5. **Choose one wow factor.** The document's example: in a video about living in a circle for 100 days, instead of starting with the contestant's house already in the circle, they brought it in on a crane about 30 seconds in. It looks inefficient by the data, but it leaves the impression that only this channel can do this. At the user's scale, propose wow moments built from expertise, access, relationships, sheer effort or unusual locations instead of money.
 6. **핵심 요소(critical components)를 목록으로 만든다.** 그것이 없으면 영상이 성립하지 않는 것입니다. 섬을 걸고 하는 영상이면 섬, 썸네일에 나온 소품, 크리에이터가 "이 두 챌린지 때문에 이 기획이 좋다"고 한 그 챌린지. 각 핵심 요소는 실현 가능성(feasibility)을 먼저 검증하라고 안내하세요. 불가능하다면 다른 사람이 시간을 쓰기 전에 거기서 멈추는 것이 이 단계의 목적입니다.
 7. **돈 대신 창의성.** 문서의 예시로, 게임 영상 상금 2만 달러보다 도리토스 1년치(하루 5봉 x 365일 = 1,825봉, 약 1,825달러)가 더 웃기고 훨씬 쌉니다. 예산이 큰 항목마다 더 싸고 더 재미있는 대안을 하나씩 제시하세요. 큰돈을 쓰는 항목이 화면에 보이지 않는다면 다시 생각하라고 짚어 주세요(문서 기준은 1만 달러 이상).
 8. **해본 사람부터 찾는다.** 세계에서 가장 큰 케이크 조각을 만들려면 이전 기록 보유자에게 먼저 연락하는 식입니다. 기획에 필요한 전문가나 선례 보유자를 구체적으로 적으세요. 문서는 컨설턴트를 "치트키"라고 부릅니다.
