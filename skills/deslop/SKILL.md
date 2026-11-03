@@ -103,3 +103,15 @@ Korean chatbot prose has its own fingerprints: translationese from English sente
 | Attribute or cut | "Studies show retention matters." | Name the actual study and what it found, or delete the sentence |
 | End early | "...In summary, X is a powerful tool for Y." | Stop at the last concrete point |
 | 번역투 풀기 | "효율적인 편집을 통해 시청 지속 시간을 늘리는 것이 가능합니다." | "편집을 잘하면 시청 지속 시간이 늘어납니다." |
+
+## Example
+
+Before (score: heavy):
+
+> In today's fast-paced world, video editing isn't just a skill — it's a superpower. Let's dive in! Moreover, mastering retention is crucial, highlighting the pivotal role of the first minute. I hope this helps!
+
+After:
+
+> Most viewers decide in the first minute whether to keep watching, so that is where editing effort pays off first.
+
+<!-- slop-check-ignore-end -->
