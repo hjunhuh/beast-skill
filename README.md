@@ -129,3 +129,8 @@ Yes. The skill replies in the language you write in.
 
 **I'm a solo creator with no budget. Is this for me?**
 Yes. Every principle is scaled to your channel. MrBeast's numbers are shown as references, never as targets.
+
+## 📚 Sources
+
+- *How to Succeed in MrBeast Production* (36 pages, written by Jimmy Donaldson). Made public in August and September 2024. According to Passionfruit, two former MrBeast producers confirmed its authenticity.
+- Change in editing pace: Donaldson's public statement in March 2024, reported by The Washington Post.
