@@ -94,3 +94,28 @@ All values are at 1920x1080 and 30 fps and scale with the composition height. Va
 | Cuts per minute before re-engagement 1 | 24 to 45 | 15 to 30 | sourced (38 and 23) |
 | Longest shot | 5 s (7.5 s in the back half) | 9 s (14.4 s in the back half) | sourced (classic) |
 | Payoff to last frame | 4 s or less | 8 s or less | |
+
+## Overlay catalog
+
+All overlays take `at` and `duration` in seconds. Pair them with SFX as listed; the SFX are separate cues so you control the exact frame.
+
+| type | Use it for | Key fields | Typical duration | SFX |
+|---|---|---|---|---|
+| `big-text` | One-line statements at the hook and re-engagements ("48 HOURS", "NOBODY FOR 20 MILES"). Captions step aside while it is up. `\n` breaks lines | `text`, `color` | 0.9 to 1.5 s | `boom` (plus `whoosh` just before) |
+| `counter` | Money and quantities. Counts with ease-out over the first 65%, then bumps | `from`, `to`, `prefix` ("$"), `suffix`, `label`, `color` | 2 to 2.5 s | `tick` at start, `cash` at 65% |
+| `timer` | Time-bound challenges. Turns red and pulses in the last 10% of a countdown | `startSeconds`, `direction`, `rate` (in-world seconds per video second), `label` | the whole challenge | none |
+| `day` | Chapter stamps that make progression visible | `day`, `total` | 1.4 to 1.6 s | `boom` |
+| `price-tag` | Stair stepping. Overlapping tags line up side by side | `amount`, `label`, `currency` | stagger 0.6 s apart | `pop` per tag |
+| `circle` | Point at the critical detail (draws itself in 8 frames) | `x`, `y` (0 to 1), `radius` (fraction of height) | about 2 s | `ding` |
+| `arrow` | Same, with a label ("SAVE THIS") | `x`, `y`, `from`, `text` | about 2 s | `ding` or `pop` |
+| `eliminated` | Elimination beats. Grayscale and red tint on the picture, then a stamp | `name` | 1.5 to 2 s | `buzzer` |
+| `name-tag` | First appearance of each person | `name`, `number`, `side` | about 2 s | `pop` |
+
+| effect | Use it for | Key fields |
+|---|---|---|
+| `punch` | Reveals, punchlines, reactions. In classic, about one every 3 s at most; in modern, only on real hits | `at`, `duration`, `scale` |
+| `shake` | Impacts, wind, collapses | `at`, `duration`, `intensity` |
+| `flash` | Hiding hard cuts in preview montages, marking a re-engagement | `at`, `color` |
+| `freeze` | Holding a frame under a statement. The source keeps running underneath, so freeze on silent moments or mute the clip | `at`, `duration` |
+
+Built-in SFX: `whoosh`, `pop`, `ding`, `boom`, `cash`, `riser`, `tick`, `buzzer`. Anything else is a path inside `public/` (for example `sfx/custom/laugh.mp3`). Music is `music: { src, volume, duckTo }` and ducks automatically while a caption word is being spoken. The user must bring a licensed track.
