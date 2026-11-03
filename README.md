@@ -1,8 +1,7 @@
 <h1 align="center">🎬 beast-skill</h1>
 
 <p align="center">
-  <b>MrBeast's internal production playbook, turned into a Claude skill.</b><br>
-  Plan, package, structure, edit and diagnose your YouTube videos minute by minute.
+  <b>MrBeast's internal production playbook => Claude skill</b><br>
 </p>
 
 <p align="center">
@@ -24,15 +23,13 @@
 
 ---
 
-## 💀 The first minute is where videos die
-
 In one MrBeast video, **21 million of the 60 million people who clicked were gone within the first minute.** The playbook calls that *above average*.
 
 In 2024, the onboarding document MrBeast wrote for new hires at his production company became public. It explains how the most-subscribed channel on YouTube plans, structures and edits every video: packaging first, the first minute obsessed over, re-engagements at minutes 3 and 6, a back half that never signals the end, and an ending that cuts the moment the payoff lands.
 
 **beast-skill turns that playbook into a working process Claude runs on your videos.** Give it an idea, a script, a cut or a retention graph, and it returns timecoded, metric-backed deliverables you can hand straight to your editor.
 
-## ⚡ Install
+## Install
 
 **Claude Code** (personal skills folder):
 
@@ -42,9 +39,7 @@ git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
 
 **Other Claude surfaces:** add this folder (it only needs `SKILL.md`) as a custom skill.
 
-That's it. No need to name the skill: it triggers whenever you talk about YouTube ideas, titles, thumbnails, structure, edits or retention.
-
-## 👀 See it work
+## See it work
 
 > **You:** I run a 50K-subscriber camping channel. Next video: "48 hours on a deserted island with $10." About 15 minutes. Give me titles, a thumbnail, a minute-by-minute structure and a brief for my editor.
 
@@ -63,7 +58,7 @@ That's it. No need to name the skill: it triggers whenever you talk about YouTub
 
 Plus title candidates ranked by intensity, two thumbnail options, a critical components table with stop criteria for safety, a first-minute script, and a copy-ready editor brief where every note has a timecode, a section and a reason tied to CTR, AVD or AVP.
 
-## 📈 The retention architecture
+## The retention architecture
 
 The playbook's prototype is built on MrBeast's average video length of 13 minutes 37 seconds:
 
@@ -86,7 +81,7 @@ Not making a 13-minute video? beast-skill scales it for you:
 
 *Formula: length x 0.23 and length x 0.46. Scaled values are always labeled as the skill's adaptation, not the playbook's text.*
 
-## 🧰 Six modes
+## Six modes
 
 | Bring this | Mode | Get this |
 |---|---|---|
@@ -97,7 +92,7 @@ Not making a 13-minute video? beast-skill scales it for you:
 | 🤝 A sponsor | **E. Sponsor integration** | 2 to 3 ways to make the brand deal part of the story |
 | 📅 A shoot | **F. Production operations** | A countdown schedule from D-45, bottleneck owners, daily check-ins |
 
-## 🔥 What's baked in
+## What's baked in
 
 - **Packaging first.** Titles and thumbnails are decided before the shoot, because they define what the first minute has to deliver.
 - **"Ketchup, not front yard."** Same effort, more extreme topic. "I survived" beats "I spent".
@@ -109,28 +104,8 @@ Not making a 13-minute video? beast-skill scales it for you:
 - **Brand deals are content.** No more retention craters at the sponsor read.
 - **The ops layer.** Name your bottlenecks, video everything, say the negatives, keep a backup day.
 
-## 🛡️ What we left out on purpose
 
-- **Hyper-fast retention editing as a default.** MrBeast himself said in March 2024 that he slowed his videos down and added breathers. beast-skill keeps the structure and sets pacing by story.
-- **"No doesn't mean no."** Clear refusals, filming permits and likeness rights are respected. The skill only suggests politely asking for alternatives.
-- **All-nighters and employee tiers.** Not production advice.
-- **Unverified rules stated as fact.** Permits, drones and similar rules are listed as things to verify.
-
-## ❓ FAQ
-
-**Is this official?**
-No. It is an unofficial project with no affiliation to MrBeast or Beast Industries, and it does not contain the original document. The principles are restated as procedures.
-
-**Does it work for Shorts?**
-Only partly. The playbook covers long-form. For Shorts, the skill applies the packaging-match and abrupt-ending principles and skips the minute map.
-
-**Does it work in my language?**
-Yes. The skill replies in the language you write in.
-
-**I'm a solo creator with no budget. Is this for me?**
-Yes. Every principle is scaled to your channel. MrBeast's numbers are shown as references, never as targets.
-
-## 📚 Sources
+## Sources
 
 - *How to Succeed in MrBeast Production* (36 pages, written by Jimmy Donaldson). Made public in August and September 2024. According to Passionfruit, two former MrBeast producers confirmed its authenticity.
 - Change in editing pace: Donaldson's public statement in March 2024, reported by The Washington Post.
