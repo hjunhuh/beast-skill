@@ -23,3 +23,11 @@
 </p>
 
 ---
+
+## 💀 The first minute is where videos die
+
+In one MrBeast video, **21 million of the 60 million people who clicked were gone within the first minute.** The playbook calls that *above average*.
+
+In 2024, the onboarding document MrBeast wrote for new hires at his production company became public. It explains how the most-subscribed channel on YouTube plans, structures and edits every video: packaging first, the first minute obsessed over, re-engagements at minutes 3 and 6, a back half that never signals the end, and an ending that cuts the moment the payoff lands.
+
+**beast-skill turns that playbook into a working process Claude runs on your videos.** Give it an idea, a script, a cut or a retention graph, and it returns timecoded, metric-backed deliverables you can hand straight to your editor.
