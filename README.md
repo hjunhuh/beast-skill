@@ -31,3 +31,15 @@ In one MrBeast video, **21 million of the 60 million people who clicked were gon
 In 2024, the onboarding document MrBeast wrote for new hires at his production company became public. It explains how the most-subscribed channel on YouTube plans, structures and edits every video: packaging first, the first minute obsessed over, re-engagements at minutes 3 and 6, a back half that never signals the end, and an ending that cuts the moment the payoff lands.
 
 **beast-skill turns that playbook into a working process Claude runs on your videos.** Give it an idea, a script, a cut or a retention graph, and it returns timecoded, metric-backed deliverables you can hand straight to your editor.
+
+## ⚡ Install
+
+**Claude Code** (personal skills folder):
+
+```bash
+git clone https://github.com/hjunhuh/beast-skill ~/.claude/skills/beast-skill
+```
+
+**Other Claude surfaces:** add this folder (it only needs `SKILL.md`) as a custom skill.
+
+That's it. No need to name the skill: it triggers whenever you talk about YouTube ideas, titles, thumbnails, structure, edits or retention.
