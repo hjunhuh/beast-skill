@@ -136,18 +136,26 @@ PASS  [ending] Ends 2.1 s after the payoff.
 
 Remotion is free for individuals, non-profits and companies with up to 3 employees; larger companies need a [Remotion company license](https://remotion.dev/license).
 
-## What's baked in
+## deslop: kill the AI voice
 
-- **Packaging first.** Titles and thumbnails are decided before the shoot, because they define what the first minute has to deliver.
-- **"Ketchup, not front yard."** Same effort, more extreme topic. "I survived" beats "I spent".
-- **Thumbnail-video match.** A yellow bouncy castle in the thumbnail means a yellow bouncy castle in the video. Every thumbnail element becomes a critical component.
-- **The wow factor.** One moment no other creator could pull off, scaled to your budget: access, expertise and effort instead of cranes.
-- **Creativity saves money.** A year of Doritos beats a $20,000 prize, and costs $1,825.
-- **Consultants are cheat codes.** Call whoever did it before you.
-- **Formats.** Last to Leave, Stair Stepping, Chase, and why you never run the same one back to back.
-- **Brand deals are content.** No more retention craters at the sponsor read.
-- **The ops layer.** Name your bottlenecks, video everything, say the negatives, keep a backup day.
+Your video is MrBeast-paced. Your description, pinned comment and README still read like a chatbot wrote them. deslop fixes that.
 
+<!-- slop-check-ignore-start -->
+
+> **Before:** In today's fast-paced world, video editing isn't just a skill — it's a superpower. Let's dive in! Moreover, mastering retention is crucial, highlighting the pivotal role of the first minute. I hope this helps!
+
+<!-- slop-check-ignore-end -->
+
+> **After:** Most viewers decide in the first minute whether to keep watching, so that is where editing effort pays off first.
+
+```bash
+node skills/deslop/scripts/slop-check.ts draft.md          # Node 22.18+, no install
+node skills/deslop/scripts/slop-check.ts --max-density 3 README.md   # exit 1 if it reads like a bot
+```
+
+It knows 40+ English and Korean patterns: em dashes, "it's not X, it's Y" reveals, bold-label bullets, delve and tapestry vocabulary, chatbot openers and sign-offs, vague attributions, plus Korean translationese ("~에 있어서", "~를 통해") and stock closers ("도움이 되셨길 바랍니다"). It skips code blocks, and **this README passes it in CI**.
+
+deslop builds on Wikipedia's *Signs of AI writing* guide, [blader/humanizer](https://github.com/blader/humanizer) and [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop), restated and extended with Korean patterns.
 
 ## Sources
 
