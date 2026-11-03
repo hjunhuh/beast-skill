@@ -69,3 +69,24 @@ The pattern list draws on three public sources, restated in our own words and ex
 | Content | Inflated significance and promotional tone | "a testament to the enduring power of", "stunning", "rich heritage" | Say what happened and let the reader judge |
 | Content | Vague attribution | "Experts say", "Studies show" | Name the source or drop the claim |
 | Content | Generic upbeat ending | "The future looks bright." | End on a concrete fact or next step |
+
+## Pattern catalog (Korean)
+
+Korean chatbot prose has its own fingerprints: translationese from English sentence structure, a narrator who announces every step, and a closing that thanks the reader.
+
+| Category | Pattern | Example | Rewrite move |
+|---|---|---|---|
+| Translationese | "~를 통해", "~에 있어서", "~함에 있어" | "편집을 함에 있어서 중요한 것은" | "편집할 때 중요한 것은" |
+| Translationese | "가지고 있다" for "have" when nothing is possessed | "높은 효율을 가지고 있습니다" | "효율이 높습니다" |
+| Translationese | "~하는 것이 가능하다" | "수정하는 것이 가능합니다" | "수정할 수 있습니다" |
+| Translationese | Double passive | "되어지다", "불려지다" | "되다", "불리다" |
+| Translationese | "~로 인해" | "버그로 인해 실패했습니다" | "버그 때문에 실패했습니다" |
+| Chatbot voice | Announcing the topic | "이번 글에서는 ~에 대해 알아보겠습니다", "함께 떠나볼까요" | Start with the first real sentence |
+| Chatbot voice | Narrating the next step | "살펴보겠습니다", "정리해 보겠습니다" | Just do it |
+| Chatbot voice | Thank-you closers | "도움이 되셨길 바랍니다", "궁금한 점이 있으시면 언제든" | End on the last real point |
+| Chatbot voice | Over-honorifics | "권장드립니다", "안내드립니다" | "권합니다", "알려 드립니다" |
+| Structure | Contrast formula | "단순히 X가 아니라 Y입니다" | Say Y |
+| Structure | Mechanical connectors at sentence start | "또한", "더불어", "나아가", "결론적으로", "요약하자면" | Delete if the meaning survives |
+| Structure | Every sentence ends in "~니다" | eight "~습니다." in a row | Merge sentences or vary the endings where the register allows |
+| Vocabulary | Vague modifiers and stock phrases | "다양한", "효과적으로", "중요한 역할을 합니다", "~라고 할 수 있습니다", "시너지", "인사이트" | Say what varies, how it is effective, what role exactly |
+| Punctuation | Em dashes and middle-dot lists | "기획·촬영·편집" | Commas or "와/과". Proper nouns such as 3·1운동 stay |
