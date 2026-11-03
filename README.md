@@ -1,33 +1,38 @@
 <h1 align="center">🎬 beast-skill</h1>
 
 <p align="center">
-  <b>MrBeast's internal production playbook => Claude skill</b><br>
+  <b>MrBeast's internal production playbook => Claude skills</b><br>
 </p>
 
 <p align="center">
   <a href="https://github.com/hjunhuh/beast-skill/stargazers"><img src="https://img.shields.io/github/stars/hjunhuh/beast-skill?style=flat&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/hjunhuh/beast-skill/actions/workflows/ci.yml"><img src="https://github.com/hjunhuh/beast-skill/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/hjunhuh/beast-skill/commits/main"><img src="https://img.shields.io/github/last-commit/hjunhuh/beast-skill?color=green" alt="Last commit"></a>
-  <img src="https://img.shields.io/badge/Claude-Skill-D97757?logo=anthropic&logoColor=white" alt="Claude Skill">
+  <img src="https://img.shields.io/badge/Claude-Plugin-D97757?logo=anthropic&logoColor=white" alt="Claude plugin">
+  <img src="https://img.shields.io/badge/Remotion-4-0B84F3?logo=react&logoColor=white" alt="Remotion 4">
+  <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript strict">
   <img src="https://img.shields.io/badge/YouTube-long--form-FF0000?logo=youtube&logoColor=white" alt="YouTube long-form">
-  <img src="https://img.shields.io/badge/based_on-36--page_playbook-black" alt="Based on a 36-page playbook">
-  <img src="https://img.shields.io/badge/modes-6-blueviolet" alt="6 modes">
 </p>
 
 <p align="center">
-  <a href="#-install">Install</a> |
-  <a href="#-see-it-work">Demo</a> |
-  <a href="#-the-retention-architecture">Retention architecture</a> |
-  <a href="#-six-modes">Six modes</a> |
-  <a href="#-faq">FAQ</a>
+  <a href="#install">Install</a> |
+  <a href="#three-skills">Skills</a> |
+  <a href="#beast-remotion-render-the-edit">beast-remotion</a> |
+  <a href="#deslop-kill-the-ai-voice">deslop</a>
+</p>
+
+<p align="center">
+  <img src="assets/demo.gif" alt="beast-remotion demo: word-pop captions, money counter, price tags, day stamps and a challenge timer" width="720">
+  <br><sub>The template's 88-second demo plan, rendered as is. Every shot is a placeholder that names the footage it stands for.</sub>
 </p>
 
 ---
 
-In one MrBeast video, **21 million of the 60 million people who clicked were gone within the first minute.** The playbook calls that *above average*.
+In one MrBeast video, **21 million of the 60 million people who clicked were gone within the first minute.** His playbook calls that *above average*.
 
-In 2024, the onboarding document MrBeast wrote for new hires at his production company became public. It explains how the most-subscribed channel on YouTube plans, structures and edits every video: packaging first, the first minute obsessed over, re-engagements at minutes 3 and 6, a back half that never signals the end, and an ending that cuts the moment the payoff lands.
+In 2024 the onboarding document MrBeast wrote for new hires at his production company became public. It explains how the most-subscribed channel on YouTube plans, structures and edits every video: packaging first, an obsessive first minute, re-engagements at minutes 3 and 6, a back half that never signals the end, and an ending that cuts the moment the payoff lands.
 
-**beast-skill turns that playbook into a working process Claude runs on your videos.** Give it an idea, a script, a cut or a retention graph, and it returns timecoded, metric-backed deliverables you can hand straight to your editor.
+This repo turns that playbook into three Claude skills that plan the video, render the edit and clean up the words around it.
 
 ## Install
 
