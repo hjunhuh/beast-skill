@@ -205,18 +205,18 @@ The document explains that old-style sponsor reads, where the host reads a scrip
 
 **Output:** 2 or 3 sponsor integration options (position, approach, draft script, expected retention impact)
 
-## 모드 F. 제작 운영
+## Mode F. Production operations
 
-문서의 상당 부분은 촬영 전 운영 원칙입니다. 사용자가 팀이나 외주와 일하면 아래를 구체적인 행동으로 바꿔 제안하고, 1인 크리에이터에게는 외주, 장소, 출연자와의 관계에 맞게 줄여서 적용하세요.
+A large part of the document covers pre-shoot operations. If the user works with a team or vendors, turn the following into concrete actions. For solo creators, scale them down to their vendors, locations and people on camera.
 
-1. **병목을 명시한다.** 썸네일 스케치나 기획처럼 내 작업이 기다리는 일을 맡길 때 "끝나면 알려줘"로 끝내지 말 것. 상대가 병목이라는 사실과 이유를 설명하고, 완료 날짜를 합의하고, 그날까지 매일 진행 상황을 확인하세요.
-2. **외주는 맡기고 잊지 않는다.** 촬영일보다 충분히 앞선 완료일을 잡고, 핵심 요소라면 백업을 동시에 준비하고, 매일 진행 상황을 영상으로 받으세요. 문제는 몇 주 전에 알아야 하고, 촬영 며칠 전에 알면 늦습니다.
-3. **핵심 요소는 집착 수준으로 관리.** 하루에도 여러 번 확인, 백업 준비, 배송이 필요하면 일반 택배 대신 직접 수령, 문제가 생기면 즉시 공유. 핵심 요소를 운에 맡기는 것은 영상 전체를 운에 맡기는 것입니다.
-4. **모든 것을 영상으로 기록.** 답사, 세트, 주문한 물건을 사진 한 장이나 기억 대신 영상으로 남겨 팀 전체가 같은 그림을 보게 하세요.
-5. **단점부터 말한다.** 좋은 점만 보고하지 말고 안 되는 이유(예약 상황, 예산 초과, 위험 요소)를 함께.
-6. **결정 요청은 맥락과 선택지를 갖춰서.** 아래 양식을 쓰세요.
-7. **소통 수단을 내용에 맞춘다.** 복잡하고 급할수록 대면, 통화, 메시지, 이메일 순으로 높은 수단을 쓰세요. 글로 보낸 것은 상대가 읽었다고 확인해야 전달된 것입니다.
-8. **소통 경로.** 다른 부서 사람에게 일을 요청할 때는 그 사람의 책임자에게 먼저 알리세요. 한 가지 일의 책임자는 한 명이어야 이중 작업이 생기지 않습니다.
+1. **Name the bottleneck.** When you hand off work your own task depends on, such as a thumbnail sketch or the creative plan, never stop at "let me know when it's done". Tell the person they are the bottleneck and why, agree on a completion date, and check progress every day until then.
+2. **Do not hand off and forget vendors.** Set a completion date well ahead of the shoot, prepare a backup in parallel if it is a critical component, and get daily progress videos. You need to know about problems weeks ahead; days ahead is too late.
+3. **Treat critical components obsessively.** Check them several times a day, prepare backups, pick up shipments yourself instead of trusting standard delivery, and speak up the moment something goes wrong. Leaving a critical component to chance means leaving the whole video to chance.
+4. **Video everything.** Record scouting trips, sets and ordered items on video instead of relying on one photo or memory, so the whole team sees the same picture.
+5. **Say the negatives.** Do not report only the good parts. Include why something might not work (availability, budget overruns, risks).
+6. **Bring context and options to every decision request.** Use the template below.
+7. **Match the channel to the message.** The more complex and urgent the issue, the higher the form of communication: in person, then a call, then a message, then email. Written communication only counts once the other person confirms they read it.
+8. **Communication lines.** When you ask someone in another department for work, tell their lead first. Each task should have exactly one owner, or work gets duplicated.
 9. **백업 데이.** 장소와 장비 대여는 하루 연장할 수 있는 조건을 확보하세요. 문서는 100% 마음에 들지만 융통성 없는 조건보다 90% 마음에 들고 연장이 되는 조건을 고르라고 합니다.
 10. **너무 좋은 조건은 검증.** 다른 곳은 다 안 되는데 한 곳만 된다고 하면 이유를 파고드세요.
 11. **우선순위 목록을 지킨다.** 다른 요청이 와도 자기 우선순위 작업이 먼저입니다.
